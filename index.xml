@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Allegra March</title><link>https://allegra.topli.ch/</link><atom:link href="https://allegra.topli.ch/index.xml" rel="self" type="application/rss+xml"/><description>Allegra March</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en</language><lastBuildDate>Sat, 19 Jul 2025 00:00:00 +0000</lastBuildDate><image><url>https://allegra.topli.ch/media/icon_hu_7613a4a452ac7087.png</url><title>Allegra March</title><link>https://allegra.topli.ch/</link></image><item><title>Example Event</title><link>https://allegra.topli.ch/event/example/</link><pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate><guid>https://allegra.topli.ch/event/example/</guid><description>&lt;p>Slides can be added in a few ways:&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>Create&lt;/strong> slides using Wowchemy&amp;rsquo;s &lt;a href="https://docs.hugoblox.com/managing-content/#create-slides" target="_blank" rel="noopener">&lt;em>Slides&lt;/em>&lt;/a> feature and link using &lt;code>slides&lt;/code> parameter in the front matter of the talk file&lt;/li>
+&lt;li>&lt;strong>Upload&lt;/strong> an existing slide deck to &lt;code>static/&lt;/code> and link using &lt;code>url_slides&lt;/code> parameter in the front matter of the talk file&lt;/li>
+&lt;li>&lt;strong>Embed&lt;/strong> your slides (e.g. Google Slides) or presentation video on this page using &lt;a href="https://docs.hugoblox.com/writing-markdown-latex/" target="_blank" rel="noopener">shortcodes&lt;/a>.&lt;/li>
+&lt;/ul>
+&lt;p>Further event details, including page elements such as image galleries, can be added to the body of this page.&lt;/p></description></item><item><title>Privacy Policy</title><link>https://allegra.topli.ch/privacy/</link><pubDate>Sat, 19 Jul 2025 00:00:00 +0000</pubDate><guid>https://allegra.topli.ch/privacy/</guid><description>&lt;p>We value your privacy. This Privacy Policy explains how we collect and process your personal data in accordance with Swiss law (revDSG) and, where applicable, the EU GDPR.&lt;/p>
+&lt;h3 id="controller">Controller&lt;/h3>
+&lt;p>Allegra Association&lt;br>
+Musterstrasse 1&lt;br>
+8000 Zurich&lt;br>
+Email: &lt;a href="mailto:contact@allegra.ch">contact@allegra.ch&lt;/a>&lt;/p>
+&lt;h3 id="what-data-we-collect">What data we collect&lt;/h3>
+&lt;ul>
+&lt;li>&lt;strong>Contact forms&lt;/strong>: If you contact us via a form, we store your submitted data (e.g., name, email) to respond.&lt;/li>
+&lt;li>&lt;strong>WhatsApp links&lt;/strong>: Clicking a WhatsApp link shares your IP address with WhatsApp. See their privacy policy.&lt;/li>
+&lt;li>&lt;strong>Analytics&lt;/strong>: We currently &lt;strong>do not&lt;/strong> use analytics tools like Google Analytics.&lt;/li>
+&lt;/ul>
+&lt;h3 id="your-rights">Your rights&lt;/h3>
+&lt;p>You may request information, correction, deletion, or restriction of your data at any time via the contact email.&lt;/p>
+&lt;hr>
+&lt;p>Last updated: July 19, 2025.&lt;/p></description></item><item><title>About us</title><link>https://allegra.topli.ch/about/</link><pubDate>Fri, 18 Jul 2025 00:00:00 +0000</pubDate><guid>https://allegra.topli.ch/about/</guid><description>&lt;p>Welcome to &lt;strong>Allegra&lt;/strong> – a non-profit initiative in Switzerland that promotes integration through real human connection.&lt;/p>
+&lt;p>Our goal is to organize &lt;strong>clubs and creative studios&lt;/strong>, where locals and newcomers meet regularly, share experiences, and learn from each other.&lt;/p>
+&lt;p>Whether it&amp;rsquo;s photography, language exchange, board games, or cooking – our gatherings create space for dialogue, creativity, and mutual respect.&lt;/p>
+&lt;p>We believe that integration doesn&amp;rsquo;t start with paperwork, but with a smile and an open mind.&lt;/p>
+&lt;p>&lt;strong>Join us – be part of the community!&lt;/strong>&lt;/p></description></item><item><title>Photography Club</title><link>https://allegra.topli.ch/atelier/photography/</link><pubDate>Fri, 18 Jul 2025 00:00:00 +0000</pubDate><guid>https://allegra.topli.ch/atelier/photography/</guid><description>&lt;p>The Photography Club is a space for people who enjoy taking photos, editing, and showcasing their work.&lt;/p>
+&lt;p>We organize photowalks, share editing tips, and prepare small exhibitions together.&lt;/p>
+&lt;p>&lt;strong>Contact&lt;/strong>: Lisa Muster&lt;br>
+&lt;strong>Email&lt;/strong>: &lt;a href="mailto:lisa@example.com">lisa@example.com&lt;/a>&lt;br>
+&lt;strong>WhatsApp group&lt;/strong>: &lt;a href="https://chat.whatsapp.com/example-link" target="_blank" rel="noopener">Join the chat&lt;/a>&lt;/p></description></item><item><title>Contact</title><link>https://allegra.topli.ch/contact/</link><pubDate>Mon, 24 Oct 2022 00:00:00 +0000</pubDate><guid>https://allegra.topli.ch/contact/</guid><description/></item></channel></rss>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Allegra March</title><link>https://allegra.topli.ch/de/</link><atom:link href="https://allegra.topli.ch/de/index.xml" rel="self" type="application/rss+xml"/><description>Allegra March</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>de</language><lastBuildDate>Sat, 19 Jul 2025 00:00:00 +0000</lastBuildDate><image><url>https://allegra.topli.ch/media/icon_hu_7613a4a452ac7087.png</url><title>Allegra March</title><link>https://allegra.topli.ch/de/</link></image><item><title>Example Event</title><link>https://allegra.topli.ch/de/event/example/</link><pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate><guid>https://allegra.topli.ch/de/event/example/</guid><description>&lt;p>Slides can be added in a few ways:&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>Create&lt;/strong> slides using Wowchemy&amp;rsquo;s &lt;a href="https://docs.hugoblox.com/managing-content/#create-slides" target="_blank" rel="noopener">&lt;em>Slides&lt;/em>&lt;/a> feature and link using &lt;code>slides&lt;/code> parameter in the front matter of the talk file&lt;/li>
+&lt;li>&lt;strong>Upload&lt;/strong> an existing slide deck to &lt;code>static/&lt;/code> and link using &lt;code>url_slides&lt;/code> parameter in the front matter of the talk file&lt;/li>
+&lt;li>&lt;strong>Embed&lt;/strong> your slides (e.g. Google Slides) or presentation video on this page using &lt;a href="https://docs.hugoblox.com/writing-markdown-latex/" target="_blank" rel="noopener">shortcodes&lt;/a>.&lt;/li>
+&lt;/ul>
+&lt;p>Further event details, including page elements such as image galleries, can be added to the body of this page.&lt;/p></description></item><item><title>Datenschutz</title><link>https://allegra.topli.ch/de/datenschutz/</link><pubDate>Sat, 19 Jul 2025 00:00:00 +0000</pubDate><guid>https://allegra.topli.ch/de/datenschutz/</guid><description>&lt;p>Wir nehmen den Schutz Ihrer persönlichen Daten sehr ernst. Diese Datenschutzerklärung informiert Sie über die Art, den Umfang und den Zweck der Verarbeitung von personenbezogenen Daten auf unserer Website gemäß dem schweizerischen Datenschutzgesetz (revDSG) sowie – soweit anwendbar – der EU-DSGVO.&lt;/p>
+&lt;h3 id="verantwortliche-stelle">Verantwortliche Stelle&lt;/h3>
+&lt;p>Allegra Verein&lt;br>
+Musterstrasse 1&lt;br>
+8000 Zürich&lt;br>
+E-Mail: &lt;a href="mailto:kontakt@allegra.ch">kontakt@allegra.ch&lt;/a>&lt;/p>
+&lt;h3 id="welche-daten-wir-verarbeiten">Welche Daten wir verarbeiten&lt;/h3>
+&lt;ul>
+&lt;li>&lt;strong>Kontaktformulare&lt;/strong>: Wenn Sie uns über ein Formular kontaktieren, speichern wir die von Ihnen angegebenen Informationen (Name, E-Mail usw.), um Ihre Anfrage zu bearbeiten.&lt;/li>
+&lt;li>&lt;strong>WhatsApp-Links&lt;/strong>: Durch Klick auf einen WhatsApp-Link wird Ihre IP-Adresse an WhatsApp weitergegeben. Bitte beachten Sie deren Datenschutzrichtlinien.&lt;/li>
+&lt;li>&lt;strong>Besucherstatistik (optional)&lt;/strong>: Wir verwenden derzeit &lt;strong>keine&lt;/strong> Tracking-Dienste wie Google Analytics.&lt;/li>
+&lt;/ul>
+&lt;h3 id="ihre-rechte">Ihre Rechte&lt;/h3>
+&lt;p>Sie haben das Recht auf Auskunft, Berichtigung, Löschung oder Einschränkung der Verarbeitung Ihrer Daten. Kontaktieren Sie uns jederzeit unter der oben genannten E-Mail-Adresse.&lt;/p>
+&lt;hr>
+&lt;p>Diese Seite wird regelmäßig aktualisiert. Letzte Änderung: 19. Juli 2025.&lt;/p></description></item><item><title>Fotografie-Atelier</title><link>https://allegra.topli.ch/de/atelier/fotografie/</link><pubDate>Fri, 18 Jul 2025 00:00:00 +0000</pubDate><guid>https://allegra.topli.ch/de/atelier/fotografie/</guid><description>&lt;p>Im Fotografie-Atelier treffen sich kreative Menschen, die gern fotografieren, bearbeiten und ausstellen.&lt;/p>
+&lt;p>Wir unternehmen gemeinsame Fotowalks, teilen Tipps zur Bildbearbeitung und organisieren Ausstellungen.&lt;/p>
+&lt;p>&lt;strong>Kontaktperson&lt;/strong>: Lisa Musterfrau&lt;br>
+&lt;strong>E-Mail&lt;/strong>: &lt;a href="mailto:lisa@example.com">lisa@example.com&lt;/a>&lt;br>
+&lt;strong>WhatsApp-Gruppe&lt;/strong>: &lt;a href="https://chat.whatsapp.com/Beispiel-Link" target="_blank" rel="noopener">Zum Chat&lt;/a>&lt;/p></description></item><item><title>Über uns</title><link>https://allegra.topli.ch/de/about/</link><pubDate>Fri, 18 Jul 2025 00:00:00 +0000</pubDate><guid>https://allegra.topli.ch/de/about/</guid><description>&lt;p>Willkommen bei &lt;strong>Allegra&lt;/strong> – einer gemeinnützigen Initiative in der Schweiz, die Integration durch echte menschliche Begegnungen fördert.&lt;/p>
+&lt;p>Unser Ziel ist es, &lt;strong>Clubs und Ateliers&lt;/strong> zu organisieren, in denen Einheimische und Zugezogene sich regelmäßig treffen, Erfahrungen austauschen und voneinander lernen können.&lt;/p>
+&lt;p>Ob Fotografie, Sprachen, Spiele oder gemeinsames Kochen – unsere Ateliers schaffen Raum für Dialog, Kreativität und Respekt.&lt;/p>
+&lt;p>Wir glauben: Integration beginnt nicht mit Formularen, sondern mit einem Lächeln und einem offenen Ohr.&lt;/p>
+&lt;p>&lt;strong>Mach mit – werde Teil unserer Gemeinschaft!&lt;/strong>&lt;/p></description></item><item><title>Contact</title><link>https://allegra.topli.ch/de/contact/</link><pubDate>Mon, 24 Oct 2022 00:00:00 +0000</pubDate><guid>https://allegra.topli.ch/de/contact/</guid><description/></item></channel></rss>
