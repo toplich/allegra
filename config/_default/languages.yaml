@@ -1,10 +1,85 @@
+de:
+  languageName: Deutsch
+  weight: 1
+  title: Allegra March
+  contentDir: content/de
+  params:
+    description: Eine Plattform zur Förderung von Integration durch Clubs in der Schweiz.
+  menu:
+    main:
+      - name: Über uns
+        url: about
+        weight: 1
+      - name: Atelier
+        url: atelier
+        weight: 2
+      - name: Impressionen
+        url: event
+        weight: 3
+      - name: Kontakt
+        url: contact
+        weight: 4
+      - name: Datenschutz
+        url: datenschutz
+        weight: 5
+
+en:
+  languageName: English
+  weight: 2
+  title: Allegra March
+  contentDir: content/en
+  params:
+    description: A platform that supports integration in Switzerland through social clubs.
+  menu:
+    main:
+      - name: About
+        url: about
+        weight: 1
+      - name: Clubs
+        url: atelier
+        weight: 2
+      - name: Moments
+        url: event
+        weight: 3
+      - name: Contact
+        url: contact
+        weight: 4
+      - name: Privacy
+        url: privacy
+        weight: 5
+
+uk:
+  languageName: Українська
+  weight: 3
+  title: Allegra March
+  contentDir: content/uk
+  params:
+    description: Платформа для підтримки інтеграції в Швейцарії через клуби за інтересами.
+  menu:
+    main:
+      - name: Про нас
+        url: about
+        weight: 1
+      - name: Клуби
+        url: atelier
+        weight: 2
+      - name: Моменти
+        url: event
+        weight: 3
+      - name: Контакт
+        url: contact
+        weight: 4
+      - name: Приватність
+        url: pryvatnist
+        weight: 5
+
 # Languages
 #   Create a section for each of your site's languages.
 #   Documentation: https://docs.hugoblox.com/reference/language/
 
 # Default language
-en:
-  languageCode: en-us
+#en:
+  #languageCode: en-us
   # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
   #contentDir: content/en
 
