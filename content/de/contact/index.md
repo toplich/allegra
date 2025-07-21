@@ -1,7 +1,6 @@
 ---
-title: Contact
+title: Kontakt
 date: 2022-10-24
-
 type: landing
 
 sections:
@@ -35,11 +34,19 @@ sections:
           }
           .btn-primary {
             margin-top: 0.5rem;
+            background-color: #007BFF;
+            color: white;
+            padding: 0.5rem 1rem;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+          }
+          .btn-primary:hover {
+            background-color: #0056b3;
           }
         </style>
 
         <div class="contact-container">
-
           <div class="contact-left">
             <p>
               <i class="fas fa-envelope"></i> <a href="mailto:info@allegra-march.ch">info@allegra-march.ch</a><br>
@@ -51,7 +58,7 @@ sections:
           </div>
 
           <div class="contact-right">
-            <form method="POST" action="https://misty-cake-336e.v-stepchuk.workers.dev/">
+            <form id="contact-form">
               <div class="form-group">
                 <label for="name">Name</label>
                 <input type="text" id="name" name="name" required class="form-control">
@@ -66,14 +73,9 @@ sections:
               </div>
               <button type="submit" class="btn btn-primary">Absenden</button>
             </form>
+            <div id="form-feedback" style="margin-top:1rem; color: green; display: none;"></div>
           </div>
-
         </div>
 
-        <script>
-        if (new URLSearchParams(window.location.search).get("sent")) {
-          alert("Vielen Dank für Ihre Nachricht!");
-        }
-        </script>
+        <script src="/js/form.js"></script>
 ---
-
