@@ -1,41 +1,48 @@
-document.addEventListener("DOMContentLoaded", function () {
+document.addEventListener("DOMContentLoaded", () => {
   const form = document.getElementById("contact-form");
   if (!form) return;
+  const fb = document.getElementById("form-feedback");
+  const start = performance.timing.navigationStart;
 
-  const feedback = document.getElementById("form-feedback");
+  form.addEventListener("submit", async e => {
+    e.preventDefault();
 
-  form.addEventListener("submit", async function (event) {
-    event.preventDefault();
+    if (document.getElementById("honeypot").value) return;
 
-    const name = document.getElementById("name").value.trim();
-    const email = document.getElementById("email").value.trim();
-    const message = document.getElementById("message").value.trim();
+    if (Date.now() - start < 1000) {
+      alert("Bitte warten...");
+      return;
+    }
+
+    const fd = new FormData(form);
+    const data = Object.fromEntries(fd.entries());
+    const payload = {
+      name: data.name,
+      email: data.email,
+      telefon: data.telefon,
+      message: data.message,
+      from_name: data.from_name,
+      from_email: data.from_email,
+      to_email: data.to_email,
+      subject: data.subject,
+    };
 
     try {
-      const response = await fetch("https://misty-cake-336e.v-stepchuk.workers.dev/", {
+      const resp = await fetch("https://misty-cake-336e.v-stepchuk.workers.dev/", {
         method: "POST",
-        headers: {
-          "Content-Type": "application/json",
-        },
-        cache: "no-store",
-        body: JSON.stringify({ name, email, message }),
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify(payload)
       });
 
-      if (response.ok) {
-        feedback.style.display = "block";
-        feedback.style.color = "green";
-        feedback.textContent = "Vielen Dank für Ihre Nachricht!";
-        form.reset();
-      } else {
-        const err = await response.text();
-        feedback.style.display = "block";
-        feedback.style.color = "red";
-        feedback.textContent = "Fehler beim Senden: " + err;
-      }
-    } catch (error) {
-      feedback.style.display = "block";
-      feedback.style.color = "red";
-      feedback.textContent = "Es gab ein Problem: " + error.message;
+      const text = await resp.text();
+      fb.style.display = "block";
+      fb.textContent = resp.ok ? "Danke!" : `Fehler: ${text}`;
+      fb.style.color = resp.ok ? "green" : "red";
+      if (resp.ok) form.reset();
+    } catch (err) {
+      fb.style.display = "block";
+      fb.style.color = "red";
+      fb.textContent = `Fehler: ${err.message}`;
     }
   });
 });
