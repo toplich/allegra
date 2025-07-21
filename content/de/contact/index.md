@@ -62,9 +62,8 @@ sections:
               <input type="hidden" name="from_name" value="Kontaktformular">
               <input type="hidden" name="from_email" value="form@chumm.ch">
               <input type="hidden" name="to_email" value="allegra@ukrgsm.com">
-              <input type="hidden" name="subject" value="Neue Kontaktformular Nachricht">              
+              <input type="hidden" name="subject" value="Neue Kontaktformular Nachricht">
               <input type="text" name="honeypot" id="honeypot" style="display:none" autocomplete="off">
-            
               <div class="form-group">
                 <label for="name">Name</label>
                 <input type="text" id="name" name="name" required class="form-control">
@@ -72,6 +71,10 @@ sections:
               <div class="form-group">
                 <label for="email">E-Mail</label>
                 <input type="email" id="email" name="email" required class="form-control">
+              </div>
+              <div class="form-group">
+                <label for="telefon">Telefon</label>
+                <input type="tel" id="telefon" name="telefon" class="form-control">
               </div>
               <div class="form-group">
                 <label for="message">Nachricht</label>
