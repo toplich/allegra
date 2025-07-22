@@ -1,0 +1,59 @@
+{{ with .Page.Params.contacts }}
+<style>
+  .contact-grid {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 2rem;
+    align-items: flex-start;
+    margin-top: 1.5rem;
+  }
+  .contact-left {
+    flex: 1 1 300px;
+  }
+  .contact-right {
+    flex: 0 0 200px;
+    text-align: center;
+  }
+  .contact-right img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 8px;
+  }
+</style>
+
+<div class="contact-grid">
+  <div class="contact-left">
+    {{ with .contact_name }}
+      <p><strong>Verantwortlich:</strong> {{ . }}</p>
+    {{ end }}
+
+    {{ with .email }}
+      <p><strong>E-Mail:</strong>
+        <a href="mailto:{{ . }}">{{ . }}</a>
+      </p>
+    {{ end }}
+
+    {{ with .phone }}
+      <p><strong>Telefon:</strong>
+        <a href="tel:{{ . }}">{{ . }}</a>
+      </p>
+    {{ end }}
+
+    {{ with .whatsapp }}
+      <p><strong>WhatsApp:</strong>
+        <a href="{{ . }}" target="_blank" rel="noopener">Gruppe beitreten</a>
+      </p>
+    {{ end }}
+  </div>
+
+  {{ with .whatsapp_qr }}
+    {{ $qr := $.Page.Resources.GetMatch . }}
+    {{ if $qr }}
+      <div class="contact-right">
+        <img src="{{ $qr.RelPermalink }}" alt="WhatsApp QR-Code" style="max-width: 150px;">
+      </div>
+    {{ end }}
+  {{ end }}
+</div>
+{{ end }}
+

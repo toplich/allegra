@@ -1,0 +1,33 @@
+{{ $lang := .Page.Lang }}
+{{ if eq $lang "de" }}
+<script>
+  window.formLang = {
+    wait: "Bitte warten...",
+    success: "Danke für deine Anmeldung!",
+    error: "Fehler beim Senden",
+    errormsg: "Fehler:",
+    invalid: "Ungültige Eingabe"
+  };
+</script>
+{{ else if eq $lang "en" }}
+<script>
+  window.formLang = {
+    wait: "Please wait...",
+    success: "Thank you for your registration!",
+    error: "Error while sending",
+    errormsg: "Error:",
+    invalid: "Invalid input"
+  };
+</script>
+{{ else if eq $lang "uk" }}
+<script>
+  window.formLang = {
+    wait: "Будь ласка, зачекайте...",
+    success: "Дякуємо за вашу заявку!",
+    error: "Помилка при надсиланні",
+    errormsg: "Помилка:",
+    invalid: "Некоректне значення"
+  };
+</script>
+{{ end }}
+

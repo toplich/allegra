@@ -56,7 +56,6 @@ sections:
               <i class="fas fa-clock"></i> Mittwoch 09:00 bis 10:00
             </p>
           </div>
-
           <div class="contact-right">
             <form id="contact-form">
               <input type="hidden" name="from_name" value="Kontaktformular">
@@ -73,10 +72,6 @@ sections:
                 <input type="email" id="email" name="email" required class="form-control">
               </div>
               <div class="form-group">
-                <label for="telefon">Telefon</label>
-                <input type="tel" id="telefon" name="telefon" class="form-control">
-              </div>
-              <div class="form-group">
                 <label for="message">Nachricht</label>
                 <textarea id="message" name="message" rows="5" required class="form-control"></textarea>
               </div>
@@ -86,5 +81,14 @@ sections:
           </div>
         </div>
 
+        <script>
+          window.formLang = {
+            wait: "Bitte warten...",
+            success: "Danke!",
+            error: "Fehler beim Senden",
+            errormsg: "Fehler:",
+            invalid: "Ungültige Eingabe"
+          };
+        </script>
         <script src="/js/form.js"></script>
 ---

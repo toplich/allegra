@@ -4,13 +4,21 @@ document.addEventListener("DOMContentLoaded", () => {
   const fb = document.getElementById("form-feedback");
   const start = performance.timing.navigationStart;
 
+  // Fallback to German if formLang not defined
+  const t = window.formLang || {
+    wait: "Bitte warten...",
+    success: "Danke!",
+    error: "Fehler beim Senden",
+    errormsg: "Fehler:"
+  };
+
   form.addEventListener("submit", async e => {
     e.preventDefault();
 
     if (document.getElementById("honeypot").value) return;
 
     if (Date.now() - start < 1000) {
-      alert("Bitte warten...");
+      alert(t.wait);
       return;
     }
 
@@ -36,13 +44,13 @@ document.addEventListener("DOMContentLoaded", () => {
 
       const text = await resp.text();
       fb.style.display = "block";
-      fb.textContent = resp.ok ? "Danke!" : `Fehler: ${text}`;
+      fb.textContent = resp.ok ? t.success : `${t.errormsg} ${text}`;
       fb.style.color = resp.ok ? "green" : "red";
       if (resp.ok) form.reset();
     } catch (err) {
       fb.style.display = "block";
       fb.style.color = "red";
-      fb.textContent = `Fehler: ${err.message}`;
+      fb.textContent = `${t.errormsg} ${err.message}`;
     }
   });
 });

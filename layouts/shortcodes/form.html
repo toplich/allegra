@@ -1,0 +1,32 @@
+<div class="contact-container">
+  <div class="contact-right">
+    <form id="contact-form">
+      <input type="hidden" name="from_name" value="{{ .Page.Title }} Anmeldung">
+      <input type="hidden" name="from_email" value="{{ .Page.Params.contacts.from_email | default "form@chumm.ch" }}">
+      <input type="hidden" name="to_email" value="{{ .Page.Params.contacts.email }}">
+      <input type="hidden" name="subject" value="{{ .Page.Params.contacts.subject | default (printf "Neue Anmeldung – %s" .Page.Title) }}">
+      <input type="text" name="honeypot" id="honeypot" style="display:none" autocomplete="off">
+      <div class="form-group">
+        <label for="name">Name</label>
+        <input type="text" id="name" name="name" required class="form-control">
+      </div>
+      <div class="form-group">
+        <label for="email">E-Mail</label>
+        <input type="email" id="email" name="email" required class="form-control">
+      </div>
+      <div class="form-group">
+        <label for="telefon">Telefon</label>
+        <input type="tel" id="telefon" name="telefon" class="form-control">
+      </div>
+      <div class="form-group">
+        <label for="message">Warum möchtest du teilnehmen?</label>
+        <textarea id="message" name="message" rows="5" required class="form-control"></textarea>
+      </div>
+      <button type="submit" class="btn btn-primary">Absenden</button>
+    </form>
+    <div id="form-feedback" style="margin-top:1rem; color: green; display: none;"></div>
+  </div>
+</div>
+
+<script src="/js/form.js"></script>
+
