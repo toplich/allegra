@@ -8,7 +8,7 @@ contacts:
   contact_name: "Anna Beispiel"
   phone: "+41 79 123 45 67"
   email: sprach@topli.ch
-  whatsapp: "https://chat.whatsapp.com/Beispiel-Link"
+  whatsapp: "https://chat.whatsapp.com/KZV3bPVijqBEgX8aikWCWS"
   whatsapp_qr: sprach-qr.png
   from_email: form-sprach@chumm.ch
   subject: Neue Anmeldung – Sprach-Atelier
