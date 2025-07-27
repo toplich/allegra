@@ -1,0 +1,62 @@
+{{ $page := .Page }}
+{{ $resources := $page.Resources.Match "*.png" }}
+
+<div class="simple-gallery">
+  {{ range $index, $res := $resources }}
+    <img src="{{ $res.RelPermalink }}" alt="{{ $res.Name }}" class="gallery-img" data-index="{{ $index }}">
+  {{ end }}
+</div>
+
+<div id="lightbox" class="lightbox hidden">
+  <button id="prev-btn" class="lightbox-nav">&larr;</button>
+  <img id="lightbox-img" src="" alt="">
+  <button id="next-btn" class="lightbox-nav">&rarr;</button>
+</div>
+
+<script>
+  document.addEventListener("DOMContentLoaded", () => {
+    const images = Array.from(document.querySelectorAll(".gallery-img"));
+    const lightbox = document.getElementById("lightbox");
+    const lightboxImg = document.getElementById("lightbox-img");
+    const prevBtn = document.getElementById("prev-btn");
+    const nextBtn = document.getElementById("next-btn");
+    let currentIndex = 0;
+
+    function showImage(index) {
+      currentIndex = index;
+      lightboxImg.src = images[currentIndex].src;
+      lightbox.classList.remove("hidden");
+    }
+
+    function hideLightbox() {
+      lightbox.classList.add("hidden");
+      lightboxImg.src = "";
+    }
+
+    images.forEach((img, i) => {
+      img.addEventListener("click", () => showImage(i));
+    });
+
+    prevBtn.addEventListener("click", (e) => {
+      e.stopPropagation();
+      currentIndex = (currentIndex - 1 + images.length) % images.length;
+      showImage(currentIndex);
+    });
+
+    nextBtn.addEventListener("click", (e) => {
+      e.stopPropagation();
+      currentIndex = (currentIndex + 1) % images.length;
+      showImage(currentIndex);
+    });
+
+    lightbox.addEventListener("click", hideLightbox);
+
+    document.addEventListener("keydown", (e) => {
+      if (lightbox.classList.contains("hidden")) return;
+      if (e.key === "Escape") hideLightbox();
+      if (e.key === "ArrowRight") nextBtn.click();
+      if (e.key === "ArrowLeft") prevBtn.click();
+    });
+  });
+</script>
+

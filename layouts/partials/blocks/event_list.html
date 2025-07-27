@@ -1,0 +1,43 @@
+{{/* Block: event_list – відображає майбутні та минулі події */}}
+
+{{ $now := now }}
+{{ $allEvents := where site.RegularPages "Type" "event" }}
+{{ $futureEvents := where $allEvents "Params.date" "ge" $now }}
+{{ $pastEvents := where $allEvents "Params.date" "lt" $now }}
+
+<section>
+  <h2>Kommende Veranstaltungen</h2>
+  {{ if gt (len $futureEvents) 0 }}
+    <ul>
+    {{ range sort $futureEvents "Params.date" }}
+      <li>
+        <strong>{{ .Title }}</strong><br>
+        📅 {{ .Params.date | time.Format "02.01.2006 15:04" }}<br>
+        📍 {{ .Params.location }}<br>
+        <a href="{{ .RelPermalink }}">Mehr erfahren</a>
+      </li>
+    {{ end }}
+    </ul>
+  {{ else }}
+    <p>Es sind derzeit keine kommenden Veranstaltungen geplant.</p>
+  {{ end }}
+</section>
+
+<section>
+  <h2>Vergangene Veranstaltungen</h2>
+  {{ if gt (len $pastEvents) 0 }}
+    <ul>
+    {{ range sort $pastEvents "Params.date" "desc" }}
+      <li>
+        <strong>{{ .Title }}</strong><br>
+        📅 {{ .Params.date | time.Format "02.01.2006" }}<br>
+        📍 {{ .Params.location }}<br>
+        <a href="{{ .RelPermalink }}">Fotos & Rückblick</a>
+      </li>
+    {{ end }}
+    </ul>
+  {{ else }}
+    <p>Noch keine vergangenen Veranstaltungen.</p>
+  {{ end }}
+</section>
+

@@ -1,9 +1,88 @@
-// Make page header alignment consistent with widget page header alignment
+/* ---------------------- */
+/* Page Header Alignment */
+/* ---------------------- */
 .universal-wrapper h1 {
   text-align: center;
 }
 
-// Center the CTA shortcode button
+/* ---------------------- */
+/* CTA Button Centering  */
+/* ---------------------- */
 .cta-group {
   justify-content: center;
 }
+
+/* ---------------------- */
+/* Gallery Grid Layout    */
+/* ---------------------- */
+.simple-gallery {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: 1rem;
+  justify-items: center;
+  margin: 2rem 0;
+}
+
+.gallery-img {
+  width: 100%;
+  max-width: 300px;
+  border-radius: 8px;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+  cursor: zoom-in;
+  transition: transform 0.2s ease;
+}
+
+.gallery-img:hover {
+  transform: scale(1.02);
+}
+
+/* ---------------------- */
+/* Lightbox Styles        */
+/* ---------------------- */
+.lightbox {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.8);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  z-index: 1000;
+}
+
+.lightbox.hidden {
+  display: none;
+}
+
+.lightbox img {
+  max-width: 90%;
+  max-height: 80vh;
+  border-radius: 10px;
+}
+
+/* ---------------------- */
+/* Lightbox Navigation    */
+/* ---------------------- */
+.lightbox-nav {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  font-size: 3rem;
+  color: white;
+  background: transparent;
+  border: none;
+  cursor: pointer;
+  z-index: 1001;
+  padding: 0 1rem;
+}
+
+#prev-btn {
+  left: 2rem;
+}
+
+#next-btn {
+  right: 2rem;
+}
+

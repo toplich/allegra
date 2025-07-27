@@ -1,8 +1,8 @@
 ---
 title: Spiel-Atelier
 summary: Gemeinsam spielen, lachen und neue Menschen kennenlernen.
-date: 2025-07-22
-type: page
+date: 2025-07-21
+type: atelier
 featuredImage: featured-spiel.png
 contacts:
   contact_name: "Laura Beispiel"

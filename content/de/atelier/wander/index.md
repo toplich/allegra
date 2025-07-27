@@ -1,8 +1,8 @@
 ---
 title: Wander-Atelier
 summary: Gemeinsam unterwegs sein, die Natur entdecken und neue Menschen kennenlernen.
-date: 2025-07-22
-type: page
+date: 2025-07-23
+type: atelier
 featuredImage: featured-wander.png
 contacts:
   contact_name: "Thomas Beispiel"

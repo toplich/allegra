@@ -1,8 +1,8 @@
 ---
 title: Sprach-Atelier
 summary: Gemeinsam Sprachen üben, voneinander lernen und interkulturell wachsen.
-date: 2025-07-22
-type: page
+date: 2025-07-24
+type: atelier
 featuredImage: featured-sprach.png
 contacts:
   contact_name: "Anna Beispiel"

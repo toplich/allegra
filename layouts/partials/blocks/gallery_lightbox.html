@@ -1,0 +1,19 @@
+<div class="simple-gallery">
+  {{ range .content.images }}
+    <a href="#{{ .alt | urlize }}"><img src="/{{ .filename }}" alt="{{ .alt }}"></a>
+  {{ end }}
+</div>
+
+{{ range .content.images }}
+  <div id="{{ .alt | urlize }}" class="lightbox">
+    <a href="#"><img src="/{{ .filename }}" alt="{{ .alt }}"></a>
+  </div>
+{{ end }}
+
+<div>
+  <h2>TEST: Galerie-Block geladen</h2>
+</div>
+
+<pre>
+{{ printf "%#v" .content }}
+</pre>

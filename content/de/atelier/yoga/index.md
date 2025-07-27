@@ -2,7 +2,7 @@
 title: Yoga-Atelier
 summary: Gemeinsam entspannen, atmen und Körper sowie Geist in Einklang bringen.
 date: 2025-07-22
-type: page
+type: atelier
 featuredImage: featured-yoga.png
 contacts:
   contact_name: "Elena Beispiel"

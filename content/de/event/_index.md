@@ -1,8 +1,5 @@
 ---
-title: Impressionen
+title: Veranstaltungen
 summary: Rückblick auf unsere gemeinsamen Aktivitäten.
-view: card
+type: event
 ---
-
-Hier findest du Eindrücke aus vergangenen Treffen, Ateliers und Veranstaltungen.
-

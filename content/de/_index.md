@@ -54,8 +54,8 @@ sections:
     title: Unsere Ateliers
     subtitle: Kreative Clubs für alle
     text: |
-      Egal ob Fotografie, Spiele, Kochen oder Sprachen – hier findest du deinen Platz.
-    count: 6
+      Egal ob Sprachen, Spielen, Stricken oder Wandern – hier findest du deinen Platz.
+    count: 3
     page_type: atelier
   design:
     view: card
@@ -63,7 +63,7 @@ sections:
 
 - block: collection
   content:
-    title: Impressionen
+    title: Veranstaltungen
     subtitle: Einblicke in unsere Begegnungen
     count: 6
     page_type: event

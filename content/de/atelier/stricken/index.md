@@ -1,8 +1,8 @@
 ---
 title: Stricken-Atelier
 summary: Gemeinsam stricken, plaudern und voneinander lernen – kreativ und gemütlich.
-date: 2025-07-23
-type: page
+date: 2025-07-21
+type: atelier
 featuredImage: featured-stricken.png
 contacts:
   contact_name: "Monika Beispiel"

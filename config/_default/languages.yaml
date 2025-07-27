@@ -10,18 +10,21 @@ de:
       - name: Über uns
         url: about
         weight: 1
+      - name: Menschen
+        url: people
+        weight: 2
       - name: Atelier
         url: atelier
-        weight: 2
-      - name: Impressionen
-        url: event
         weight: 3
+      - name: Veranstaltungen
+        url: event
+        weight: 4
       - name: Kontakt
         url: contact
-        weight: 4
+        weight: 5
       - name: Datenschutz
         url: datenschutz
-        weight: 5
+        weight: 6
 
 en:
   languageName: English
@@ -35,18 +38,21 @@ en:
       - name: About
         url: about
         weight: 1
+      - name: People
+        url: people
+        weight: 2
       - name: Clubs
         url: atelier
-        weight: 2
-      - name: Moments
-        url: event
         weight: 3
+      - name: Events
+        url: event
+        weight: 4
       - name: Contact
         url: contact
-        weight: 4
+        weight: 5
       - name: Privacy
         url: privacy
-        weight: 5
+        weight: 6
 
 uk:
   languageName: Українська
@@ -60,18 +66,21 @@ uk:
       - name: Про нас
         url: about
         weight: 1
+      - name: Люди
+        url: people
+        weight: 2
       - name: Клуби
         url: atelier
-        weight: 2
-      - name: Моменти
-        url: event
         weight: 3
+      - name: Заходи
+        url: event
+        weight: 4
       - name: Контакт
         url: contact
-        weight: 4
+        weight: 5
       - name: Приватність
         url: pryvatnist
-        weight: 5
+        weight: 6
 
 # Languages
 #   Create a section for each of your site's languages.
