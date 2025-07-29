@@ -1,0 +1,17 @@
+{{/* layouts/shortcodes/notice-card.html */}}
+
+<div class="notice-card" style="margin-bottom: 2rem;">
+  <a href="{{ .Get "link" | default "#" }}" style="text-decoration: none; color: inherit;">
+    <h3 style="margin-bottom: 0.2rem;">
+      {{ with .Get "icon" }}
+        <i class="fas fa-{{ . }}" style="margin-right: 0.4rem;"></i>
+      {{ end }}
+      {{ .Get "title" }}
+    </h3>
+    <p style="margin-top: 0; font-size: 1rem;">{{ .Inner }}</p>
+    {{ with .Get "date" }}
+      <p style="color: grey; font-size: 0.9rem; margin-top: 0.3rem;">{{ . }}</p>
+    {{ end }}
+  </a>
+</div>
+

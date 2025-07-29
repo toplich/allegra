@@ -86,3 +86,113 @@
   right: 2rem;
 }
 
+/* 
+ * Timeline-Darstellung für Agenda-Veranstaltungen 
+ * Verwendet von Shortcode "agenda-timeline.html"
+ * Zeigt Events mit Datum, Titel und Zusammenfassung in vertikaler Timeline-Form
+ */
+
+.timeline {
+  position: relative;
+  margin-left: 2rem;
+  border-left: 3px solid #007acc;
+  padding-left: 1.5rem;
+}
+
+.timeline-item {
+  margin-bottom: 2rem;
+  position: relative;
+}
+
+.timeline-date {
+  font-weight: bold;
+  color: #007acc;
+  margin-bottom: 0.3rem;
+}
+
+.timeline-item::before {
+  content: "";
+  position: absolute;
+  left: -1.2rem;
+  top: 0.3rem;
+  width: 12px;
+  height: 12px;
+  background-color: #007acc;
+  border-radius: 50%;
+}
+
+/* ================================
+   Allgemeines Layout für Kontaktseite
+   ================================ */
+.contact-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 2rem;
+  margin-top: 2rem;
+}
+.contact-left,
+.contact-right {
+  flex: 1 1 400px;
+  max-width: 500px;
+}
+
+/* ================================
+   Kontaktinformationen (linke Spalte)
+   ================================ */
+.contact-left p {
+  font-size: 1.1rem;
+  line-height: 1.8;
+}
+.contact-left i {
+  margin-right: 0.5rem;
+  color: #444;
+}
+
+/* ================================
+   Formularstruktur (rechte Spalte)
+   ================================ */
+.form-group {
+  margin-bottom: 1rem;
+}
+.hidden {
+  display: none;
+}
+
+/* ================================
+   Buttons
+   ================================ */
+.btn-primary {
+  margin-top: 0.5rem;
+  background-color: #007BFF;
+  color: white;
+  padding: 0.5rem 1rem;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+.btn-primary:hover {
+  background-color: #0056b3;
+}
+
+/* ================================
+   Form1
+   ================================ */
+
+.hidden {
+  display: none;
+}
+
+.btn-secondary {
+  background-color: #6c757d;
+  color: white;
+  padding: 0.5rem 1rem;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.btn-secondary:hover {
+  background-color: #5a6268;
+}
+

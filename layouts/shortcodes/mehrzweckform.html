@@ -1,0 +1,74 @@
+<style>
+  .form-group { margin-bottom: 1rem; }
+  .hidden { display: none; }
+</style>
+
+<form id="kontakt-formular">
+  <div class="form-group">
+    <label for="form-type">Was möchten Sie tun?</label>
+    <select id="form-type" name="form-type" required>
+      <option value="">Bitte auswählen</option>
+      <option value="atelier-anmeldung">Anmeldung für ein Atelier</option>
+      <option value="info-anmeldung">Anmeldung Info-Point</option>
+      <option value="atelier-registrierung">Registrierung eines Ateliers</option>
+      <option value="sonstiges">Sonstige Fragen und Anliegen</option>
+    </select>
+  </div>
+
+  <div class="form-group">
+    <label for="name">Name *</label>
+    <input type="text" id="name" name="name" required>
+  </div>
+
+  <div class="form-group">
+    <label for="email">E-Mail *</label>
+    <input type="email" id="email" name="email" required>
+  </div>
+
+  <div class="form-group hidden" id="atelier-anmeldung-fields">
+    <label for="atelier">Welches Atelier möchten Sie besuchen?</label>
+    <input type="text" id="atelier" name="atelier">
+    <label for="anzahl-personen">Anzahl Personen</label>
+    <input type="number" id="anzahl-personen" name="anzahl-personen" min="1">
+  </div>
+
+  <div class="form-group hidden" id="info-anmeldung-fields">
+    <label for="thema">Welches Thema interessiert Sie?</label>
+    <input type="text" id="thema" name="thema">
+  </div>
+
+  <div class="form-group hidden" id="atelier-registrierung-fields">
+    <label for="atelier-name">Name des neuen Ateliers</label>
+    <input type="text" id="atelier-name" name="atelier-name">
+    <label for="beschreibung">Kurzbeschreibung</label>
+    <textarea id="beschreibung" name="beschreibung"></textarea>
+  </div>
+
+  <div class="form-group hidden" id="sonstiges-fields">
+    <label for="nachricht">Ihre Nachricht</label>
+    <textarea id="nachricht" name="nachricht" rows="5"></textarea>
+  </div>
+
+  <button type="submit">Absenden</button>
+</form>
+
+<script>
+  document.addEventListener("DOMContentLoaded", () => {
+    const formType = document.getElementById("form-type");
+    const sections = {
+      "atelier-anmeldung": document.getElementById("atelier-anmeldung-fields"),
+      "info-anmeldung": document.getElementById("info-anmeldung-fields"),
+      "atelier-registrierung": document.getElementById("atelier-registrierung-fields"),
+      "sonstiges": document.getElementById("sonstiges-fields"),
+    };
+
+    formType.addEventListener("change", () => {
+      Object.values(sections).forEach(el => el.classList.add("hidden"));
+      const selected = formType.value;
+      if (sections[selected]) {
+        sections[selected].classList.remove("hidden");
+      }
+    });
+  });
+</script>
+

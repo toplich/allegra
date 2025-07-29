@@ -1,0 +1,5 @@
+---
+title: Mitteilungen
+layout: page
+---
+

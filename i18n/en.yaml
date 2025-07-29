@@ -1,0 +1,12 @@
+- id: filter_all
+  translation: All
+- id: filter_agenda
+  translation: Agenda
+- id: filter_infopoint
+  translation: Info Point
+- id: filter_gallery
+  translation: Gallery
+- id: filter_news
+  translation: News
+
+

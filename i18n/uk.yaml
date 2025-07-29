@@ -1,0 +1,12 @@
+- id: filter_all
+  translation: Усі
+- id: filter_agenda
+  translation: Події
+- id: filter_infopoint
+  translation: Info-Point
+- id: filter_gallery
+  translation: Галерея
+- id: filter_news
+  translation: Новини
+
+

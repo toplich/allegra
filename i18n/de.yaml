@@ -1,0 +1,31 @@
+- id: filter_all
+  translation: Alle
+- id: filter_agenda
+  translation: Agenda
+- id: filter_infopoint
+  translation: Info-Point
+- id: filter_gallery
+  translation: Galerie
+- id: filter_news
+  translation: News
+# Contact Info
+- id: contact_address
+  translation: Beispielstraße 1, Zürich, ZH 8000
+- id: contact_hours1
+  translation: Montag 10:00 bis 13:00
+- id: contact_hours2
+  translation: Mittwoch 09:00 bis 10:00
+#simpleform.html
+- id: form_topic
+  translation: Was möchten Sie tun?
+- id: form_option_register
+  translation: Registrierung eines Ateliers
+- id: form_option_other
+  translation: Sonstige Fragen und Anliegen
+- id: form_name
+  translation: Name
+- id: form_message
+  translation: Nachricht
+- id: form_submit
+  translation: Absenden
+

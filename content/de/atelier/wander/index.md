@@ -40,5 +40,5 @@ Die Wanderungen sind gemütlich, für alle geeignet, und bieten Gelegenheit, neu
 ## Ich möchte teilnehmen
 
 {{< form-lang >}}
-{{< form >}}
+{{< form1 >}}
 

@@ -1,0 +1,12 @@
+<div class="timeline">
+  {{ range .Page.Pages.ByDate }}
+    <div class="timeline-item">
+      <div class="timeline-date">{{ .Date.Format "02. Jan 2006" }}</div>
+      <div class="timeline-content">
+        <h3><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
+        <p>{{ .Summary }}</p>
+      </div>
+    </div>
+  {{ end }}
+</div>
+

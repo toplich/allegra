@@ -12,7 +12,19 @@ baseURL: 'https://allegra.topli.ch/' # Website URL
 
 defaultContentLanguage: de
 hasCJKLanguage: false
-defaultContentLanguageInSubdir: false
+defaultContentLanguageInSubdir: true
+
+languages:
+  de:
+    languageName: Deutsch
+    weight: 1
+  en:
+    languageName: English
+    weight: 2
+  uk:
+    languageName: Українська
+    weight: 3
+
 removePathAccents: true
 
 ############################
@@ -25,7 +37,7 @@ pagination:
   pagerSize: 10
 enableEmoji: true
 enableRobotsTXT: true
-footnotereturnlinkcontents: <sup>^</sup>
+#footnotereturnlinkcontents: <sup>^</sup>
 ignoreFiles: [\.ipynb$, .ipynb_checkpoints$, \.Rmd$, \.Rmarkdown$, _cache$]
 permalinks:
   authors: '/author/:slug/'

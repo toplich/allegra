@@ -49,24 +49,19 @@ sections:
     interval: 5000
     loop: true
 
-- block: collection
+- block: markdown
   content:
-    title: Unsere Ateliers
-    subtitle: Kreative Clubs für alle
-    text: |
-      Egal ob Sprachen, Spielen, Stricken oder Wandern – hier findest du deinen Platz.
-    count: 3
-    page_type: atelier
-  design:
-    view: card
-    columns: "3"
+    title: Was ist Allegra?
+    subtitle: Allegra bringt Menschen zusammen – durch Sprache, Bewegung, Spiel und mehr.
+    text: >
+      {{< features-grid >}}
 
 - block: collection
   content:
-    title: Veranstaltungen
+    title: Mitteilungen
     subtitle: Einblicke in unsere Begegnungen
     count: 6
-    page_type: event
+    page_type: news
   design:
     view: card
     columns: "3"

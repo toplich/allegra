@@ -10,21 +10,24 @@ de:
       - name: Über uns
         url: about
         weight: 1
-      - name: Menschen
+      - name: Team
         url: people
         weight: 2
       - name: Atelier
         url: atelier
         weight: 3
-      - name: Veranstaltungen
-        url: event
+      - name: Mitteilungen
+        url: notices
         weight: 4
       - name: Kontakt
         url: contact
         weight: 5
-      - name: Datenschutz
-        url: datenschutz
+      - name: Dank
+        url: dank
         weight: 6
+      - name: Datenschutz
+        url: privacy
+        weight: 7
 
 en:
   languageName: English
@@ -38,18 +41,38 @@ en:
       - name: About
         url: about
         weight: 1
-      - name: People
+      - name: Team
         url: people
         weight: 2
       - name: Clubs
         url: atelier
         weight: 3
-      - name: Events
-        url: event
+      - name: News
+        url: news
         weight: 4
+        identifier: news
+      - name: Agenda
+        url: /category/event/
+        weight: 4.1
+        parent: news
+      - name: Info-Point
+        url: /category/infopoint/
+        weight: 4.2
+        parent: news
+      - name: Gallery
+        url: /category/gallery/
+        weight: 4.3
+        parent: news
+      - name: News
+        url: /category/info/
+        weight: 4.4
+        parent: news
       - name: Contact
         url: contact
         weight: 5
+      - name: Thanks
+        url: dank
+        weight: 6
       - name: Privacy
         url: privacy
         weight: 6
@@ -66,18 +89,38 @@ uk:
       - name: Про нас
         url: about
         weight: 1
-      - name: Люди
+      - name: Команда
         url: people
         weight: 2
       - name: Клуби
         url: atelier
         weight: 3
-      - name: Заходи
-        url: event
+      - name: Новини
+        url: news
         weight: 4
+        identifier: news
+      - name: Події
+        url: /category/event/
+        weight: 4.1
+        parent: news
+      - name: Info-Point
+        url: /category/infopoint/
+        weight: 4.2
+        parent: news
+      - name: Галерея
+        url: /category/gallery/
+        weight: 4.3
+        parent: news
+      - name: Новини
+        url: /category/info/
+        weight: 4.4
+        parent: news
       - name: Контакт
         url: contact
         weight: 5
+      - name: Подяка
+        url: dank
+        weight: 6
       - name: Приватність
         url: pryvatnist
         weight: 6
