@@ -38,5 +38,4 @@ Wir freuen uns sehr über eine **Kontaktaufnahme**!
 
 ---
 
-📬 [Zum Kontaktformular](/contact/)
 

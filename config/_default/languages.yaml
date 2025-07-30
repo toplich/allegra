@@ -19,12 +19,26 @@ de:
       - name: Mitteilungen
         url: notices
         weight: 4
+        identifier: notices
+      - name: Agenda
+        url: /notices/agenda/
+        weight: 4.1
+        parent: notices
+      - name: Info-Point
+        url: /notices/infopoint/
+        weight: 4.2
+        parent: notices
+      - name: Gallery
+        url: /notices/gallery/
+        weight: 4.3
+        parent: notices
+      - name: News
+        url: /notices/info/
+        weight: 4.4
+        parent: notices
       - name: Kontakt
         url: contact
         weight: 5
-      - name: Dank
-        url: dank
-        weight: 6
       - name: Datenschutz
         url: privacy
         weight: 7
@@ -70,9 +84,6 @@ en:
       - name: Contact
         url: contact
         weight: 5
-      - name: Thanks
-        url: dank
-        weight: 6
       - name: Privacy
         url: privacy
         weight: 6
@@ -118,9 +129,6 @@ uk:
       - name: Контакт
         url: contact
         weight: 5
-      - name: Подяка
-        url: dank
-        weight: 6
       - name: Приватність
         url: pryvatnist
         weight: 6
