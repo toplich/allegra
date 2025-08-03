@@ -1,6 +1,8 @@
 ---
 title: Neues Spiel-Atelier gestartet!
 
+type: news
+
 categories: ["information"]
 tags: ["Neuer Club", "Spiel-Atelier", "Gemeinschaft"]
 
@@ -9,8 +11,8 @@ abstract: |
   Ob Uno, Schach oder moderne Kartenspiele – im neuen Spiel-Atelier treffen sich Jung und Alt zum gemeinsamen Spielen, Lachen und Kennenlernen.  
   Jeden Freitag im Gemeindehaus Allegra.
 
-date: '2025-07-24T09:00:00+02:00'
-publishDate: '2025-07-24T09:00:00+02:00'
+date: '2025-08-01T09:00:00+02:00'
+publishDate: '2025-08-02T09:00:00+02:00'
 featured: true
 
 image:

@@ -51,17 +51,20 @@ sections:
 
 - block: markdown
   content:
-    title: Was ist Allegra?
-    subtitle: Allegra bringt Menschen zusammen – durch Sprache, Bewegung, Spiel und mehr.
+    title: Was wir machen
+    subtitle: Entdecke unsere Aktivitäten
     text: >
-      {{< features-grid >}}
+      {{< features-activities >}}
 
 - block: collection
   content:
-    title: Mitteilungen
-    subtitle: Einblicke in unsere Begegnungen
-    count: 6
+    title: Neuigkeiten
+    subtitle: Aktuelle Meldungen aus dem Projekt
+    count: 3
     page_type: news
+    more_link:
+      text: Mehr erfahren
+      url: /notices/info/
   design:
     view: card
     columns: "3"

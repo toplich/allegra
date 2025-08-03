@@ -1,7 +1,7 @@
 ---
 title: "Umfrage"
 date: 2025-07-30
-type: page
+type: news
 layout: page
 draft: false
 featured: false

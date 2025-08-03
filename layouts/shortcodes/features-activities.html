@@ -1,0 +1,52 @@
+<style>
+  .features-activities {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 2rem;
+    margin-top: 2rem;
+  }
+  .activity-item {
+    width: 220px;
+    text-align: center;
+    text-decoration: none;
+    color: inherit;
+  }
+  .activity-item i {
+    font-size: 3rem;
+    color: #195ccf;
+    margin-bottom: 0.5rem;
+  }
+  .activity-item h3 {
+    font-size: 1.2rem;
+    margin-bottom: 0.2rem;
+  }
+  .activity-item p {
+    font-size: 1rem;
+    color: #555;
+  }
+</style>
+
+<div class="features-activities">
+  <a class="activity-item" href="{{ "/atelier/" | relLangURL }}">
+    <i class="fas fa-hands"></i>
+    <h3>Ateliers</h3>
+    <p>Kreative Gruppenangebote für alle.</p>
+  </a>
+  <a class="activity-item" href="{{ "/notices/infopoint/" | relLangURL }}">
+    <i class="fas fa-bullhorn"></i>
+    <h3>Info-Veranstaltungen</h3>
+    <p>Infos zum Leben in der Schweiz.</p>
+  </a>
+  <a class="activity-item" href="{{ "/notices/agenda/" | relLangURL }}">
+    <i class="fas fa-calendar-alt"></i>
+    <h3>Agenda</h3>
+    <p>Events und Plenumtreffen.</p>
+  </a>
+  <a class="activity-item" href="{{ "/notices/gallery/" | relLangURL }}">
+    <i class="fas fa-images"></i>
+    <h3>Galerie</h3>
+    <p>Einblicke in vergangene Veranstaltungen.</p>
+  </a>
+</div>
+
