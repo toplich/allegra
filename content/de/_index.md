@@ -62,11 +62,13 @@ sections:
     subtitle: Aktuelle Meldungen aus dem Projekt
     count: 3
     page_type: news
+    alignment: center
     more_link:
       text: Mehr erfahren
       url: /notices/info/
   design:
     view: card
     columns: "3"
+    alignment: center
 ---
 
