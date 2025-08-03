@@ -61,8 +61,7 @@ errormsg: "Fehler:",
 invalid: "Ungültige Eingabe"
 };
 &lt;/script>
-&lt;div class="contact-container">
-&lt;div class="contact-right">
+&lt;div class="contact-container wide-form">
 &lt;div id="anmeldung-form" class="hidden">
 &lt;form id="contact-form">
 &lt;input type="hidden" name="from_name" value="Sprach-Atelier Anmeldung">
@@ -108,6 +107,12 @@ invalid: "Ungültige Eingabe"
 &lt;div class="form-group">
 &lt;label for="message">Warum möchtest du teilnehmen?&lt;/label>
 &lt;textarea id="message" name="message" rows="5" required class="form-control">&lt;/textarea>
+&lt;/div>
+&lt;div class="form-group">
+&lt;input type="checkbox" id="datenschutz" name="datenschutz" required>
+&lt;label for="datenschutz">
+Ich akzeptiere die &lt;a href="https://allegra.topli.ch/de/privacy/" target="_blank">Datenschutz &amp; Privatsphäre&lt;/a>
+&lt;/label>
 &lt;/div>
 &lt;button type="submit" class="btn btn-primary">Absenden&lt;/button>
 &lt;/form>
@@ -210,8 +215,7 @@ errormsg: "Fehler:",
 invalid: "Ungültige Eingabe"
 };
 &lt;/script>
-&lt;div class="contact-container">
-&lt;div class="contact-right">
+&lt;div class="contact-container wide-form">
 &lt;div id="anmeldung-form" class="hidden">
 &lt;form id="contact-form">
 &lt;input type="hidden" name="from_name" value="Wander-Atelier Anmeldung">
@@ -257,6 +261,12 @@ invalid: "Ungültige Eingabe"
 &lt;div class="form-group">
 &lt;label for="message">Warum möchtest du teilnehmen?&lt;/label>
 &lt;textarea id="message" name="message" rows="5" required class="form-control">&lt;/textarea>
+&lt;/div>
+&lt;div class="form-group">
+&lt;input type="checkbox" id="datenschutz" name="datenschutz" required>
+&lt;label for="datenschutz">
+Ich akzeptiere die &lt;a href="https://allegra.topli.ch/de/privacy/" target="_blank">Datenschutz &amp; Privatsphäre&lt;/a>
+&lt;/label>
 &lt;/div>
 &lt;button type="submit" class="btn btn-primary">Absenden&lt;/button>
 &lt;/form>
@@ -356,8 +366,7 @@ errormsg: "Fehler:",
 invalid: "Ungültige Eingabe"
 };
 &lt;/script>
-&lt;div class="contact-container">
-&lt;div class="contact-right">
+&lt;div class="contact-container wide-form">
 &lt;div id="anmeldung-form" class="hidden">
 &lt;form id="contact-form">
 &lt;input type="hidden" name="from_name" value="Yoga-Atelier Anmeldung">
@@ -403,6 +412,12 @@ invalid: "Ungültige Eingabe"
 &lt;div class="form-group">
 &lt;label for="message">Warum möchtest du teilnehmen?&lt;/label>
 &lt;textarea id="message" name="message" rows="5" required class="form-control">&lt;/textarea>
+&lt;/div>
+&lt;div class="form-group">
+&lt;input type="checkbox" id="datenschutz" name="datenschutz" required>
+&lt;label for="datenschutz">
+Ich akzeptiere die &lt;a href="https://allegra.topli.ch/de/privacy/" target="_blank">Datenschutz &amp; Privatsphäre&lt;/a>
+&lt;/label>
 &lt;/div>
 &lt;button type="submit" class="btn btn-primary">Absenden&lt;/button>
 &lt;/form>
@@ -505,8 +520,7 @@ errormsg: "Fehler:",
 invalid: "Ungültige Eingabe"
 };
 &lt;/script>
-&lt;div class="contact-container">
-&lt;div class="contact-right">
+&lt;div class="contact-container wide-form">
 &lt;div id="anmeldung-form" class="hidden">
 &lt;form id="contact-form">
 &lt;input type="hidden" name="from_name" value="Spiel-Atelier Anmeldung">
@@ -552,6 +566,12 @@ invalid: "Ungültige Eingabe"
 &lt;div class="form-group">
 &lt;label for="message">Warum möchtest du teilnehmen?&lt;/label>
 &lt;textarea id="message" name="message" rows="5" required class="form-control">&lt;/textarea>
+&lt;/div>
+&lt;div class="form-group">
+&lt;input type="checkbox" id="datenschutz" name="datenschutz" required>
+&lt;label for="datenschutz">
+Ich akzeptiere die &lt;a href="https://allegra.topli.ch/de/privacy/" target="_blank">Datenschutz &amp; Privatsphäre&lt;/a>
+&lt;/label>
 &lt;/div>
 &lt;button type="submit" class="btn btn-primary">Absenden&lt;/button>
 &lt;/form>
@@ -655,8 +675,7 @@ invalid: "Ungültige Eingabe"
 };
 &lt;/script>
 &lt;br>
-&lt;div class="contact-container">
-&lt;div class="contact-right">
+&lt;div class="contact-container wide-form">
 &lt;div id="anmeldung-form" class="hidden">
 &lt;form id="contact-form">
 &lt;input type="hidden" name="from_name" value="Stricken-Atelier Anmeldung">
@@ -702,6 +721,12 @@ invalid: "Ungültige Eingabe"
 &lt;div class="form-group">
 &lt;label for="message">Warum möchtest du teilnehmen?&lt;/label>
 &lt;textarea id="message" name="message" rows="5" required class="form-control">&lt;/textarea>
+&lt;/div>
+&lt;div class="form-group">
+&lt;input type="checkbox" id="datenschutz" name="datenschutz" required>
+&lt;label for="datenschutz">
+Ich akzeptiere die &lt;a href="https://allegra.topli.ch/de/privacy/" target="_blank">Datenschutz &amp; Privatsphäre&lt;/a>
+&lt;/label>
 &lt;/div>
 &lt;button type="submit" class="btn btn-primary">Absenden&lt;/button>
 &lt;/form>
