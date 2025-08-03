@@ -7,12 +7,21 @@ de:
     description: Eine Plattform zur Förderung von Integration durch Clubs in der Schweiz.
   menu:
     main:
-      - name: Über uns
-        url: about
+      - name: Verein
         weight: 1
+        identifier: about
+      - name: Über uns
+        url: /about/about/
+        weight: 1.1
+        parent: about
       - name: Team
-        url: people
-        weight: 2
+        url: /about/team/
+        weight: 1.2
+        parent: about
+      - name: Dank
+        pageRef: /about/dank/
+        weight: 1.3
+        parent: about
       - name: Atelier
         url: atelier
         weight: 3
@@ -52,41 +61,54 @@ en:
     description: A platform that supports integration in Switzerland through social clubs.
   menu:
     main:
-      - name: About
-        url: about
+      - name: Association
         weight: 1
+        identifier: about
+      - name: About us
+        url: /about/about/
+        weight: 1.1
+        parent: about
       - name: Team
-        url: people
-        weight: 2
-      - name: Clubs
+        url: /about/team/
+        weight: 1.2
+        parent: about
+      - name: Gratitude
+        pageRef: /about/dank/
+        weight: 1.3
+        parent: about
+
+      - name: Ateliers
         url: atelier
         weight: 3
-      - name: News
-        url: news
+
+      - name: Notices
+        url: notices
         weight: 4
-        identifier: news
+        identifier: notices
       - name: Agenda
-        url: /category/event/
+        url: /notices/agenda/
         weight: 4.1
-        parent: news
+        parent: notices
       - name: Info-Point
-        url: /category/infopoint/
+        url: /notices/infopoint/
         weight: 4.2
-        parent: news
+        parent: notices
       - name: Gallery
-        url: /category/gallery/
+        url: /notices/gallery/
         weight: 4.3
-        parent: news
+        parent: notices
       - name: News
-        url: /category/info/
+        url: /notices/info/
         weight: 4.4
-        parent: news
+        parent: notices
+
       - name: Contact
         url: contact
         weight: 5
-      - name: Privacy
+
+      - name: Privacy Policy
         url: privacy
-        weight: 6
+        weight: 7
 
 uk:
   languageName: Українська
@@ -97,61 +119,52 @@ uk:
     description: Платформа для підтримки інтеграції в Швейцарії через клуби за інтересами.
   menu:
     main:
-      - name: Про нас
-        url: about
+      - name: Організація
         weight: 1
+        identifier: about
+      - name: Про нас
+        url: /about/about/
+        weight: 1.1
+        parent: about
       - name: Команда
-        url: people
-        weight: 2
-      - name: Клуби
+        url: /about/team/
+        weight: 1.2
+        parent: about
+      - name: Подяка
+        pageRef: /about/dank/
+        weight: 1.3
+        parent: about
+
+      - name: Ательє
         url: atelier
         weight: 3
-      - name: Новини
-        url: news
+
+      - name: Повідомлення
+        url: notices
         weight: 4
-        identifier: news
-      - name: Події
-        url: /category/event/
+        identifier: notices
+      - name: Порядок денний
+        url: /notices/agenda/
         weight: 4.1
-        parent: news
-      - name: Info-Point
-        url: /category/infopoint/
+        parent: notices
+      - name: Інфо-Пойнт
+        url: /notices/infopoint/
         weight: 4.2
-        parent: news
+        parent: notices
       - name: Галерея
-        url: /category/gallery/
+        url: /notices/gallery/
         weight: 4.3
-        parent: news
+        parent: notices
       - name: Новини
-        url: /category/info/
+        url: /notices/info/
         weight: 4.4
-        parent: news
+        parent: notices
+
       - name: Контакт
         url: contact
         weight: 5
-      - name: Приватність
-        url: pryvatnist
-        weight: 6
 
-# Languages
-#   Create a section for each of your site's languages.
-#   Documentation: https://docs.hugoblox.com/reference/language/
+      - name: Політика конфіденційності
+        url: privacy
+        weight: 7
 
-# Default language
-#en:
-  #languageCode: en-us
-  # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
-  #contentDir: content/en
-
-# Uncomment the lines below to configure your website in a second language.
-#zh:
-#  languageCode: zh-Hans
-#  contentDir: content/zh
-#  title: Chinese website title...
-#  params:
-#    description: Site description in Chinese...
-#  menu:
-#    main:
-#      - name: 传
-#        url: '#about'
-#        weight: 1

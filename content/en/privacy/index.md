@@ -1,30 +1,53 @@
 ---
-title: Privacy Policy
-translationKey: datenschutz
-summary: Information about how we process your personal data.
-date: 2025-07-19
+title: "Data Protection & Privacy"
+date: 2025-07-28
+type: page
+layout: page
+toc: false
+comments: false
 ---
 
-We value your privacy. This Privacy Policy explains how we collect and process your personal data in accordance with Swiss law (revDSG) and, where applicable, the EU GDPR.
+## Data Protection & Privacy
 
-### Controller
-
-Allegra Association  
-Musterstrasse 1  
-8000 Zurich  
-Email: [contact@allegra.ch](mailto:contact@allegra.ch)
-
-### What data we collect
-
-- **Contact forms**: If you contact us via a form, we store your submitted data (e.g., name, email) to respond.
-- **WhatsApp links**: Clicking a WhatsApp link shares your IP address with WhatsApp. See their privacy policy.
-- **Analytics**: We currently **do not** use analytics tools like Google Analytics.
-
-### Your rights
-
-You may request information, correction, deletion, or restriction of your data at any time via the contact email.
+We take the protection of your data and your privacy very seriously.  
+You always decide what personal information you want to share and how it should be used.
 
 ---
 
-Last updated: July 19, 2025.
+## Registration and Contact
+
+When registering for an Atelier or an Info-Point event, you provide us with your name and a way to contact you, either via email and/or by phone/smartphone.  
+This information is used **only for the participant list of the respective event** and is **not shared with third parties**.
+
+To stay in contact with the Atelier organizer and receive important information, you can join a **WhatsApp chat** (please see the [WhatsApp Privacy Policy](https://www.whatsapp.com/legal/privacy-policy-eea)).  
+If you prefer to receive information by email, you can inform the Atelier organizer directly.
+
+---
+
+## Photos & Public Relations
+
+To promote the work of our association and share impressions from the Ateliers on our website and social media platforms, **photos may be taken during events**.
+
+📷 **Taking photos during an event is only permitted** to:
+- the Atelier organizers, or  
+- a member of the association  
+  who is attending the event to support or take photos.
+
+🛑 **All other participants are not allowed to take photos.**  
+This ensures that your **privacy preferences** (see next section) are respected.
+
+---
+
+## Consent Form
+
+At the beginning of an Atelier, you will be asked to fill out a **consent form**, where you can indicate:
+- whether we may publish a photo in which you appear
+- whether your face may be visible or only shown in photos  
+  where, for example, you are seen from behind
+
+---
+
+## Detailed Policy
+
+📄 The detailed data protection policy...
 
