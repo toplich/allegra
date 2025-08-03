@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Rückblick | Allegra March</title><link>https://allegra.topli.ch/en/tag/ruckblick/</link><atom:link href="https://allegra.topli.ch/en/tag/ruckblick/index.xml" rel="self" type="application/rss+xml"/><description>Rückblick</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en</language><lastBuildDate>Thu, 24 Jul 2025 09:00:00 +0200</lastBuildDate><image><url>https://allegra.topli.ch/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url><title>Rückblick</title><link>https://allegra.topli.ch/en/tag/ruckblick/</link></image><item><title>Rückblick – Sprach-Picknick am Zürichsee</title><link>https://allegra.topli.ch/en/notices/gallery/sprach-picknick/</link><pubDate>Thu, 24 Jul 2025 09:00:00 +0200</pubDate><guid>https://allegra.topli.ch/en/notices/gallery/sprach-picknick/</guid><description>&lt;h2 id="rückblick">Rückblick&lt;/h2>
+&lt;p>Vielen Dank an alle, die dabei waren!&lt;/p>
+&lt;p>Das &lt;strong>Sprach-Picknick am Zürichsee&lt;/strong> war ein voller Erfolg:&lt;br>
+Über 30 Menschen aus unterschiedlichen Kulturen haben gemeinsam gespielt, gegessen und natürlich viel Deutsch gesprochen.&lt;/p>
+&lt;p>Besonders erfreulich war das offene Miteinander und die entspannte Atmosphäre.&lt;br>
+Einige Eindrücke findest du in unserer Galerie:&lt;/p>
+&lt;div class="simple-gallery">
+&lt;img src="https://allegra.topli.ch/en/notices/gallery/sprach-picknick/sprach-event.png" alt="sprach-event.png" class="gallery-img" data-index="0">
+&lt;img src="https://allegra.topli.ch/en/notices/gallery/sprach-picknick/sprach-event2.png" alt="sprach-event2.png" class="gallery-img" data-index="1">
+&lt;img src="https://allegra.topli.ch/en/notices/gallery/sprach-picknick/sprach-event3.png" alt="sprach-event3.png" class="gallery-img" data-index="2">
+&lt;/div>
+&lt;div id="lightbox" class="lightbox hidden">
+&lt;button id="prev-btn" class="lightbox-nav">&amp;larr;&lt;/button>
+&lt;img id="lightbox-img" src="" alt="">
+&lt;button id="next-btn" class="lightbox-nav">&amp;rarr;&lt;/button>
+&lt;/div>
+&lt;script>
+document.addEventListener("DOMContentLoaded", () => {
+const images = Array.from(document.querySelectorAll(".gallery-img"));
+const lightbox = document.getElementById("lightbox");
+const lightboxImg = document.getElementById("lightbox-img");
+const prevBtn = document.getElementById("prev-btn");
+const nextBtn = document.getElementById("next-btn");
+let currentIndex = 0;
+function showImage(index) {
+currentIndex = index;
+lightboxImg.src = images[currentIndex].src;
+lightbox.classList.remove("hidden");
+}
+function hideLightbox() {
+lightbox.classList.add("hidden");
+lightboxImg.src = "";
+}
+images.forEach((img, i) => {
+img.addEventListener("click", () => showImage(i));
+});
+prevBtn.addEventListener("click", (e) => {
+e.stopPropagation();
+currentIndex = (currentIndex - 1 + images.length) % images.length;
+showImage(currentIndex);
+});
+nextBtn.addEventListener("click", (e) => {
+e.stopPropagation();
+currentIndex = (currentIndex + 1) % images.length;
+showImage(currentIndex);
+});
+lightbox.addEventListener("click", hideLightbox);
+document.addEventListener("keydown", (e) => {
+if (lightbox.classList.contains("hidden")) return;
+if (e.key === "Escape") hideLightbox();
+if (e.key === "ArrowRight") nextBtn.click();
+if (e.key === "ArrowLeft") prevBtn.click();
+});
+});
+&lt;/script>
+&lt;hr>
+&lt;h3 id="-veranstaltungsdetails">📍 Veranstaltungsdetails&lt;/h3>
+&lt;ul>
+&lt;li>📅 &lt;strong>Datum:&lt;/strong> 20. Juli 2025, 15:00–18:00 Uhr&lt;/li>
+&lt;li>📍 &lt;strong>Ort:&lt;/strong> Zürichseepark, Zürich&lt;/li>
+&lt;li>🧺 &lt;strong>Mitbringen:&lt;/strong> Etwas zum Teilen&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h3 id="-fotos--medien">📷 Fotos &amp;amp; Medien&lt;/h3>
+&lt;ul>
+&lt;li>&lt;a href="https://allegra.topli.ch/files/sprach-picknick-flyer.pdf">📄 Flyer zur Veranstaltung (PDF)&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.youtube.com/watch?v=video-id" target="_blank" rel="noopener">🎥 Video-Rückblick&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;blockquote>
+&lt;p>💬 &lt;em>Du warst dabei und möchtest deine Eindrücke teilen? Schreib uns gern oder sende uns deine Fotos!&lt;/em>&lt;/p>
+&lt;/blockquote></description></item></channel></rss>

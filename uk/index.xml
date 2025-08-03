@@ -1,30 +1,621 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Allegra March</title><link>https://allegra.topli.ch/uk/</link><atom:link href="https://allegra.topli.ch/uk/index.xml" rel="self" type="application/rss+xml"/><description>Allegra March</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>uk</language><lastBuildDate>Sat, 19 Jul 2025 00:00:00 +0000</lastBuildDate><image><url>https://allegra.topli.ch/media/icon_hu_7613a4a452ac7087.png</url><title>Allegra March</title><link>https://allegra.topli.ch/uk/</link></image><item><title>Example Event</title><link>https://allegra.topli.ch/uk/event/example/</link><pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate><guid>https://allegra.topli.ch/uk/event/example/</guid><description>&lt;p>Slides can be added in a few ways:&lt;/p>
-&lt;ul>
-&lt;li>&lt;strong>Create&lt;/strong> slides using Wowchemy&amp;rsquo;s &lt;a href="https://docs.hugoblox.com/managing-content/#create-slides" target="_blank" rel="noopener">&lt;em>Slides&lt;/em>&lt;/a> feature and link using &lt;code>slides&lt;/code> parameter in the front matter of the talk file&lt;/li>
-&lt;li>&lt;strong>Upload&lt;/strong> an existing slide deck to &lt;code>static/&lt;/code> and link using &lt;code>url_slides&lt;/code> parameter in the front matter of the talk file&lt;/li>
-&lt;li>&lt;strong>Embed&lt;/strong> your slides (e.g. Google Slides) or presentation video on this page using &lt;a href="https://docs.hugoblox.com/writing-markdown-latex/" target="_blank" rel="noopener">shortcodes&lt;/a>.&lt;/li>
-&lt;/ul>
-&lt;p>Further event details, including page elements such as image galleries, can be added to the body of this page.&lt;/p></description></item><item><title>Політика конфіденційності</title><link>https://allegra.topli.ch/uk/pryvatnist/</link><pubDate>Sat, 19 Jul 2025 00:00:00 +0000</pubDate><guid>https://allegra.topli.ch/uk/pryvatnist/</guid><description>&lt;p>Ми поважаємо вашу приватність. Ця сторінка пояснює, які дані ми збираємо, як їх обробляємо відповідно до швейцарського Закону про захист даних (revDSG) та, за потреби, GDPR (ЄС).&lt;/p>
-&lt;h3 id="відповідальна-організація">Відповідальна організація&lt;/h3>
-&lt;p>Allegra&lt;br>
-Musterstrasse 1&lt;br>
-8000 Цюрих&lt;br>
-E-mail: &lt;a href="mailto:contact@allegra.ch">contact@allegra.ch&lt;/a>&lt;/p>
-&lt;h3 id="які-дані-ми-збираємо">Які дані ми збираємо&lt;/h3>
-&lt;ul>
-&lt;li>&lt;strong>Форма зворотного зв’язку&lt;/strong>: зберігаємо надані вами дані (імʼя, email) для відповіді на запит.&lt;/li>
-&lt;li>&lt;strong>Посилання на WhatsApp&lt;/strong>: при переході ваша IP-адреса передається WhatsApp.&lt;/li>
-&lt;li>&lt;strong>Аналітика&lt;/strong>: наразі &lt;strong>не&lt;/strong> використовуємо аналітичні сервіси, як-от Google Analytics.&lt;/li>
-&lt;/ul>
-&lt;h3 id="ваші-права">Ваші права&lt;/h3>
-&lt;p>Ви маєте право на отримання інформації, виправлення, видалення або обмеження обробки ваших даних. Напишіть нам за адресою, вказаною вище.&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Allegra March</title><link>https://allegra.topli.ch/uk/</link><atom:link href="https://allegra.topli.ch/uk/index.xml" rel="self" type="application/rss+xml"/><description>Allegra March</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>uk</language><lastBuildDate>Sat, 19 Jul 2025 00:00:00 +0000</lastBuildDate><image><url>https://allegra.topli.ch/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url><title>Allegra March</title><link>https://allegra.topli.ch/uk/</link></image><item><title>Info-Point - Krankenversicherung</title><link>https://allegra.topli.ch/uk/notices/infopoint/2025-10-15/</link><pubDate>Wed, 15 Oct 2025 18:00:00 +0000</pubDate><guid>https://allegra.topli.ch/uk/notices/infopoint/2025-10-15/</guid><description/></item><item><title>Treffen der Allegra March</title><link>https://allegra.topli.ch/uk/notices/agenda/2025-09-22/</link><pubDate>Mon, 22 Sep 2025 18:00:00 +0000</pubDate><guid>https://allegra.topli.ch/uk/notices/agenda/2025-09-22/</guid><description/></item><item><title>Umfrage</title><link>https://allegra.topli.ch/uk/notices/info/umfrage/</link><pubDate>Wed, 30 Jul 2025 00:00:00 +0000</pubDate><guid>https://allegra.topli.ch/uk/notices/info/umfrage/</guid><description>&lt;br>
+&lt;iframe src="https://docs.google.com/forms/d/e/1FAIpQLScCa7DzlyLSd2e9-3pZ6rybbNL8QxRYFRT6XxezE-P358vnPQ/viewform?usp=dialog"
+width="100%" height="1000" frameborder="0" marginheight="0" marginwidth="0"
+style="border: none; max-width: 100%;">
+Wird geladen…
+&lt;/iframe></description></item><item><title>Захист даних і конфіденційність</title><link>https://allegra.topli.ch/uk/privacy/</link><pubDate>Mon, 28 Jul 2025 00:00:00 +0000</pubDate><guid>https://allegra.topli.ch/uk/privacy/</guid><description>&lt;h2 id="захист-даних-і-конфіденційність">Захист даних і конфіденційність&lt;/h2>
+&lt;p>Ми дуже серйозно ставимося до захисту твоїх персональних даних і приватності.&lt;br>
+Ти сам/сама вирішуєш, яку інформацію про себе надавати та як її використовуватимуть.&lt;/p>
 &lt;hr>
-&lt;p>Останнє оновлення: 19 липня 2025.&lt;/p></description></item><item><title>Про нас</title><link>https://allegra.topli.ch/uk/about/</link><pubDate>Fri, 18 Jul 2025 00:00:00 +0000</pubDate><guid>https://allegra.topli.ch/uk/about/</guid><description>&lt;p>Ласкаво просимо до &lt;strong>Allegra&lt;/strong> – благодійної ініціативи у Швейцарії, яка сприяє інтеграції через живе спілкування.&lt;/p>
-&lt;p>Наша мета — організовувати &lt;strong>клуби та творчі майстерні&lt;/strong>, де місцеві жителі та новоприбулі можуть зустрічатися, ділитися досвідом і вчитися одне в одного.&lt;/p>
-&lt;p>Фотографія, мови, настільні ігри чи кулінарія — наші зустрічі створюють простір для діалогу, творчості та взаємоповаги.&lt;/p>
-&lt;p>Ми віримо, що інтеграція починається не з паперів, а з посмішки та відкритого серця.&lt;/p>
-&lt;p>&lt;strong>Приєднуйся — стань частиною спільноти!&lt;/strong>&lt;/p></description></item><item><title>Фотографія</title><link>https://allegra.topli.ch/uk/atelier/fotografia/</link><pubDate>Fri, 18 Jul 2025 00:00:00 +0000</pubDate><guid>https://allegra.topli.ch/uk/atelier/fotografia/</guid><description>&lt;p>Фотоклуб — простір для тих, хто захоплюється фотографією, редагуванням і виставками.&lt;/p>
+&lt;h2 id="реєстрація-та-контакт">Реєстрація та контакт&lt;/h2>
+&lt;p>Під час реєстрації на ательє або захід Info-Point ти надаєш своє ім’я та контактну інформацію — електронну пошту та/або номер телефону/смартфона.&lt;br>
+Ці дані використовуються &lt;strong>лише для списку учасників конкретного заходу&lt;/strong> і &lt;strong>не передаються третім особам&lt;/strong>.&lt;/p>
+&lt;p>Для того щоб бути на звʼязку з координатором ательє та отримувати важливу інформацію, ти можеш приєднатися до &lt;strong>WhatsApp-чату&lt;/strong> (див. &lt;a href="https://www.whatsapp.com/legal/privacy-policy-eea" target="_blank" rel="noopener">Політику конфіденційності WhatsApp&lt;/a>).&lt;br>
+Якщо бажаєш отримувати інформацію лише електронною поштою — просто повідом координатора ательє.&lt;/p>
+&lt;hr>
+&lt;h2 id="фото-та-публічне-висвітлення">Фото та публічне висвітлення&lt;/h2>
+&lt;p>Щоб популяризувати діяльність нашої організації та показати враження з ательє на нашому сайті та в соціальних мережах, &lt;strong>під час заходів можуть проводитися фотофіксації&lt;/strong>.&lt;/p>
+&lt;p>📷 &lt;strong>Фотографування під час заходу дозволено лише&lt;/strong>:&lt;/p>
+&lt;ul>
+&lt;li>координатору ательє або&lt;/li>
+&lt;li>члену організації,&lt;br>
+який присутній для допомоги або спеціально для фотографування.&lt;/li>
+&lt;/ul>
+&lt;p>🛑 &lt;strong>Іншим учасникам фотографування заборонено.&lt;/strong>&lt;br>
+Таким чином ми гарантуємо повагу до бажаного рівня &lt;strong>приватності&lt;/strong> кожного (див. наступний розділ).&lt;/p>
+&lt;hr>
+&lt;h2 id="згода">Згода&lt;/h2>
+&lt;p>На початку кожного ательє ти заповнюєш &lt;strong>форму згоди&lt;/strong>, в якій можеш зазначити:&lt;/p>
+&lt;ul>
+&lt;li>чи дозволяєш ти публікувати фото, на якому тебе видно&lt;/li>
+&lt;li>чи може бути видно твоє обличчя, або дозволяєш лише ті фото,&lt;br>
+де тебе видно, наприклад, зі спини&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2 id="докладна-політика">Докладна політика&lt;/h2>
+&lt;p>📄 Докладну політику захисту даних&amp;hellip;&lt;/p></description></item><item><title>Подяка</title><link>https://allegra.topli.ch/uk/about/dank/</link><pubDate>Mon, 28 Jul 2025 00:00:00 +0000</pubDate><guid>https://allegra.topli.ch/uk/about/dank/</guid><description>&lt;p>&lt;strong>Ми щиро дякуємо!&lt;/strong>&lt;/p>
+&lt;p>Ми висловлюємо подяку всім волонтерам організації Allegra March, а також людям, які проводять заняття в ательє та інформаційні заходи Info-Point.&lt;/p>
+&lt;p>Особлива подяка команді Komin за підтримку на старті нашої організації, за їхню активну допомогу в нашій роботі та цінну роль як контактної особи.&lt;/p>
+&lt;p>І, звісно ж, дякуємо всім учасникам ательє та заходів Info-Point. Завдяки вам ми можемо втілювати інтеграцію та інклюзію в життя.&lt;/p></description></item><item><title>Neues Spiel-Atelier gestartet!</title><link>https://allegra.topli.ch/uk/notices/info/spieltag/</link><pubDate>Thu, 24 Jul 2025 09:00:00 +0200</pubDate><guid>https://allegra.topli.ch/uk/notices/info/spieltag/</guid><description>&lt;p>Wir freuen uns sehr, euch unseren &lt;strong>neuen Club – das Spiel-Atelier&lt;/strong> – vorzustellen!&lt;/p>
+&lt;p>Ab &lt;strong>Freitag, dem 26. Juli 2025&lt;/strong>, treffen wir uns wöchentlich, um gemeinsam Brettspiele, Kartenspiele und andere Gesellschaftsspiele zu spielen.&lt;br>
+&lt;strong>Alle sind willkommen&lt;/strong> – egal ob Kinder, Erwachsene, Familien oder Senior*innen.&lt;/p>
+&lt;hr>
+&lt;h3 id="-was-erwartet-euch">🧩 Was erwartet euch?&lt;/h3>
+&lt;ul>
+&lt;li>Eine entspannte, freundliche Atmosphäre&lt;/li>
+&lt;li>Spiele für jedes Alter und Interesse&lt;/li>
+&lt;li>Möglichkeit, neue Leute kennenzulernen&lt;/li>
+&lt;li>Getränke und Snacks vor Ort&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h3 id="-infos-im-überblick">📍 Infos im Überblick&lt;/h3>
+&lt;ul>
+&lt;li>📅 &lt;strong>Wann:&lt;/strong> Jeden Freitag, 17:30–19:30 Uhr&lt;/li>
+&lt;li>📍 &lt;strong>Wo:&lt;/strong> Gemeindehaus Allegra, Zürich&lt;/li>
+&lt;li>💸 &lt;strong>Teilnahme:&lt;/strong> Kostenlos&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h3 id="-kontakt--anmeldung">📞 Kontakt &amp;amp; Anmeldung&lt;/h3>
+&lt;p>&lt;a href="https://allegra.topli.ch/atelier/spiel/">Zur Club-Seite mit Infos und Anmeldung&lt;/a>&lt;/p>
+&lt;hr>
+&lt;p>🎲 &lt;strong>Wir freuen uns auf viele Mitspielerinnen und Mitspieler!&lt;/strong>&lt;/p>
+&lt;hr>
+&lt;blockquote>
+&lt;p>📣 &lt;em>Du möchtest deinen eigenen Club starten? Schreib uns gern!&lt;/em>&lt;/p>
+&lt;/blockquote></description></item><item><title>Rückblick – Sprach-Picknick am Zürichsee</title><link>https://allegra.topli.ch/uk/notices/gallery/sprach-picknick/</link><pubDate>Thu, 24 Jul 2025 09:00:00 +0200</pubDate><guid>https://allegra.topli.ch/uk/notices/gallery/sprach-picknick/</guid><description>&lt;h2 id="rückblick">Rückblick&lt;/h2>
+&lt;p>Vielen Dank an alle, die dabei waren!&lt;/p>
+&lt;p>Das &lt;strong>Sprach-Picknick am Zürichsee&lt;/strong> war ein voller Erfolg:&lt;br>
+Über 30 Menschen aus unterschiedlichen Kulturen haben gemeinsam gespielt, gegessen und natürlich viel Deutsch gesprochen.&lt;/p>
+&lt;p>Besonders erfreulich war das offene Miteinander und die entspannte Atmosphäre.&lt;br>
+Einige Eindrücke findest du in unserer Galerie:&lt;/p>
+&lt;div class="simple-gallery">
+&lt;img src="https://allegra.topli.ch/uk/notices/gallery/sprach-picknick/sprach-event.png" alt="sprach-event.png" class="gallery-img" data-index="0">
+&lt;img src="https://allegra.topli.ch/uk/notices/gallery/sprach-picknick/sprach-event2.png" alt="sprach-event2.png" class="gallery-img" data-index="1">
+&lt;img src="https://allegra.topli.ch/uk/notices/gallery/sprach-picknick/sprach-event3.png" alt="sprach-event3.png" class="gallery-img" data-index="2">
+&lt;/div>
+&lt;div id="lightbox" class="lightbox hidden">
+&lt;button id="prev-btn" class="lightbox-nav">&amp;larr;&lt;/button>
+&lt;img id="lightbox-img" src="" alt="">
+&lt;button id="next-btn" class="lightbox-nav">&amp;rarr;&lt;/button>
+&lt;/div>
+&lt;script>
+document.addEventListener("DOMContentLoaded", () => {
+const images = Array.from(document.querySelectorAll(".gallery-img"));
+const lightbox = document.getElementById("lightbox");
+const lightboxImg = document.getElementById("lightbox-img");
+const prevBtn = document.getElementById("prev-btn");
+const nextBtn = document.getElementById("next-btn");
+let currentIndex = 0;
+function showImage(index) {
+currentIndex = index;
+lightboxImg.src = images[currentIndex].src;
+lightbox.classList.remove("hidden");
+}
+function hideLightbox() {
+lightbox.classList.add("hidden");
+lightboxImg.src = "";
+}
+images.forEach((img, i) => {
+img.addEventListener("click", () => showImage(i));
+});
+prevBtn.addEventListener("click", (e) => {
+e.stopPropagation();
+currentIndex = (currentIndex - 1 + images.length) % images.length;
+showImage(currentIndex);
+});
+nextBtn.addEventListener("click", (e) => {
+e.stopPropagation();
+currentIndex = (currentIndex + 1) % images.length;
+showImage(currentIndex);
+});
+lightbox.addEventListener("click", hideLightbox);
+document.addEventListener("keydown", (e) => {
+if (lightbox.classList.contains("hidden")) return;
+if (e.key === "Escape") hideLightbox();
+if (e.key === "ArrowRight") nextBtn.click();
+if (e.key === "ArrowLeft") prevBtn.click();
+});
+});
+&lt;/script>
+&lt;hr>
+&lt;h3 id="-veranstaltungsdetails">📍 Veranstaltungsdetails&lt;/h3>
+&lt;ul>
+&lt;li>📅 &lt;strong>Datum:&lt;/strong> 20. Juli 2025, 15:00–18:00 Uhr&lt;/li>
+&lt;li>📍 &lt;strong>Ort:&lt;/strong> Zürichseepark, Zürich&lt;/li>
+&lt;li>🧺 &lt;strong>Mitbringen:&lt;/strong> Etwas zum Teilen&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h3 id="-fotos--medien">📷 Fotos &amp;amp; Medien&lt;/h3>
+&lt;ul>
+&lt;li>&lt;a href="https://allegra.topli.ch/files/sprach-picknick-flyer.pdf">📄 Flyer zur Veranstaltung (PDF)&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.youtube.com/watch?v=video-id" target="_blank" rel="noopener">🎥 Video-Rückblick&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;blockquote>
+&lt;p>💬 &lt;em>Du warst dabei und möchtest deine Eindrücke teilen? Schreib uns gern oder sende uns deine Fotos!&lt;/em>&lt;/p>
+&lt;/blockquote></description></item><item><title>Клуб в’язання</title><link>https://allegra.topli.ch/uk/atelier/stricken/</link><pubDate>Wed, 23 Jul 2025 00:00:00 +0000</pubDate><guid>https://allegra.topli.ch/uk/atelier/stricken/</guid><description>&lt;h2 id="що-ми-робимо">Що ми робимо&lt;/h2>
+&lt;p>У клубі в’язання збираються ті, хто любить творити руками — незалежно від рівня досвіду.&lt;/p>
+&lt;p>Можна працювати над власним проєктом, просто повчитись або поспілкуватись. Ми ділимось ідеями, підтримуємо одне одного та створюємо теплу, творчу атмосферу.&lt;/p>
+&lt;hr>
+&lt;h2 id="організаційне">Організаційне&lt;/h2>
+&lt;ul>
+&lt;li>🗓 &lt;strong>Коли&lt;/strong>: Щочетверга, 17:00–18:30&lt;/li>
+&lt;li>📍 &lt;strong>Де&lt;/strong>: Громадський центр Allegra, Цюрих&lt;/li>
+&lt;li>💸 &lt;strong>Участь&lt;/strong>: Безкоштовно. Просимо приносити свої нитки й спиці. Частину матеріалів ми надаємо.&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2 id="контакт">Контакт&lt;/h2>
+&lt;style>
+.contact-grid {
+display: flex;
+flex-wrap: wrap;
+gap: 2rem;
+align-items: flex-start;
+margin-top: 1.5rem;
+}
+.contact-left {
+flex: 1 1 300px;
+}
+.contact-right {
+flex: 0 0 200px;
+text-align: center;
+}
+.contact-right img {
+max-width: 100%;
+height: auto;
+border-radius: 8px;
+}
+&lt;/style>
+&lt;div class="contact-grid">
+&lt;div class="contact-left">
+&lt;p>&lt;strong>Verantwortlich:&lt;/strong> Моніка Бейшпіль&lt;/p>
+&lt;p>&lt;strong>E-Mail:&lt;/strong>
+&lt;a href="mailto:stricken@topli.ch">stricken@topli.ch&lt;/a>
+&lt;/p>
+&lt;p>&lt;strong>Telefon:&lt;/strong>
+&lt;a href="tel:&amp;#43;41%2079%20888%2077%2066">&amp;#43;41 79 888 77 66&lt;/a>
+&lt;/p>
+&lt;p>&lt;strong>WhatsApp:&lt;/strong>
+&lt;a href="https://chat.whatsapp.com/KZV3bPVijqBEgX8aikWCWS" target="_blank" rel="noopener">Gruppe beitreten&lt;/a>
+&lt;/p>
+&lt;/div>
+&lt;div class="contact-right">
+&lt;img src="https://allegra.topli.ch/de/atelier/stricken/stricken-qr.png" alt="WhatsApp QR-Code" style="max-width: 150px;">
+&lt;/div>
+&lt;/div>
+&lt;hr>
+&lt;h2 id="я-хочу-приєднатися">Я хочу приєднатися&lt;/h2>
+&lt;p>
+&lt;script>
+window.formLang = {
+wait: "Будь ласка, зачекайте...",
+success: "Дякуємо за вашу заявку!",
+error: "Помилка при надсиланні",
+errormsg: "Помилка:",
+invalid: "Некоректне значення"
+};
+&lt;/script>
+&lt;br>
+&lt;div class="contact-container">
+&lt;div class="contact-right">
+&lt;form id="contact-form">
+&lt;input type="hidden" name="from_name" value="Клуб в’язання Anmeldung">
+&lt;input type="hidden" name="from_email" value="form-stricken@chumm.ch">
+&lt;input type="hidden" name="to_email" value="stricken@topli.ch">
+&lt;input type="hidden" name="subject" value="Нова заявка – Клуб в’язання">
+&lt;input type="text" name="honeypot" id="honeypot" style="display:none" autocomplete="off">
+&lt;div class="form-group">
+&lt;label for="name">Name&lt;/label>
+&lt;input type="text" id="name" name="name" required class="form-control">
+&lt;/div>
+&lt;div class="form-group">
+&lt;label for="email">E-Mail&lt;/label>
+&lt;input type="email" id="email" name="email" required class="form-control">
+&lt;/div>
+&lt;div class="form-group">
+&lt;label for="telefon">Telefon&lt;/label>
+&lt;input type="tel" id="telefon" name="telefon" class="form-control">
+&lt;/div>
+&lt;div class="form-group">
+&lt;label for="message">Warum möchtest du teilnehmen?&lt;/label>
+&lt;textarea id="message" name="message" rows="5" required class="form-control">&lt;/textarea>
+&lt;/div>
+&lt;button type="submit" class="btn btn-primary">Absenden&lt;/button>
+&lt;/form>
+&lt;div id="form-feedback" style="margin-top:1rem; color: green; display: none;">&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;script src="https://allegra.topli.ch/js/form.js">&lt;/script>
+&lt;/p></description></item><item><title>Ігровий клуб</title><link>https://allegra.topli.ch/uk/atelier/spiel/</link><pubDate>Tue, 22 Jul 2025 00:00:00 +0000</pubDate><guid>https://allegra.topli.ch/uk/atelier/spiel/</guid><description>&lt;h2 id="що-ми-робимо">Що ми робимо&lt;/h2>
+&lt;p>У нашому Ігровому клубі зустрічаються люди різного віку, щоб грати в настільні ігри — від класичних Uno чи шахів до сучасних карткових ігор.&lt;/p>
+&lt;p>Це не про перемогу, а про радість, сміх і гарну компанію. Можна також принести свої улюблені ігри!&lt;/p>
+&lt;hr>
+&lt;h2 id="організаційне">Організаційне&lt;/h2>
+&lt;ul>
+&lt;li>🗓 &lt;strong>Коли&lt;/strong>: Щоп’ятниці, 17:30–19:30&lt;/li>
+&lt;li>📍 &lt;strong>Де&lt;/strong>: Громадський центр Allegra, Цюрих&lt;/li>
+&lt;li>💸 &lt;strong>Участь&lt;/strong>: Безкоштовно, ігри надаються&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2 id="контакт">Контакт&lt;/h2>
+&lt;style>
+.contact-grid {
+display: flex;
+flex-wrap: wrap;
+gap: 2rem;
+align-items: flex-start;
+margin-top: 1.5rem;
+}
+.contact-left {
+flex: 1 1 300px;
+}
+.contact-right {
+flex: 0 0 200px;
+text-align: center;
+}
+.contact-right img {
+max-width: 100%;
+height: auto;
+border-radius: 8px;
+}
+&lt;/style>
+&lt;div class="contact-grid">
+&lt;div class="contact-left">
+&lt;p>&lt;strong>Verantwortlich:&lt;/strong> Лаура Бейшпіль&lt;/p>
+&lt;p>&lt;strong>E-Mail:&lt;/strong>
+&lt;a href="mailto:spiel@topli.ch">spiel@topli.ch&lt;/a>
+&lt;/p>
+&lt;p>&lt;strong>Telefon:&lt;/strong>
+&lt;a href="tel:&amp;#43;41%2079%20456%2078%2090">&amp;#43;41 79 456 78 90&lt;/a>
+&lt;/p>
+&lt;p>&lt;strong>WhatsApp:&lt;/strong>
+&lt;a href="https://chat.whatsapp.com/DEIN-SPIEL-GRUPPEN-LINK" target="_blank" rel="noopener">Gruppe beitreten&lt;/a>
+&lt;/p>
+&lt;/div>
+&lt;div class="contact-right">
+&lt;img src="https://allegra.topli.ch/de/atelier/spiel/spiel-qr.png" alt="WhatsApp QR-Code" style="max-width: 150px;">
+&lt;/div>
+&lt;/div>
+&lt;hr>
+&lt;h2 id="я-хочу-приєднатися">Я хочу приєднатися&lt;/h2>
+&lt;p>
+&lt;script>
+window.formLang = {
+wait: "Будь ласка, зачекайте...",
+success: "Дякуємо за вашу заявку!",
+error: "Помилка при надсиланні",
+errormsg: "Помилка:",
+invalid: "Некоректне значення"
+};
+&lt;/script>
+&lt;div class="contact-container">
+&lt;div class="contact-right">
+&lt;form id="contact-form">
+&lt;input type="hidden" name="from_name" value="Ігровий клуб Anmeldung">
+&lt;input type="hidden" name="from_email" value="form-spiel@chumm.ch">
+&lt;input type="hidden" name="to_email" value="spiel@topli.ch">
+&lt;input type="hidden" name="subject" value="Нова заявка – Ігровий клуб">
+&lt;input type="text" name="honeypot" id="honeypot" style="display:none" autocomplete="off">
+&lt;div class="form-group">
+&lt;label for="name">Name&lt;/label>
+&lt;input type="text" id="name" name="name" required class="form-control">
+&lt;/div>
+&lt;div class="form-group">
+&lt;label for="email">E-Mail&lt;/label>
+&lt;input type="email" id="email" name="email" required class="form-control">
+&lt;/div>
+&lt;div class="form-group">
+&lt;label for="telefon">Telefon&lt;/label>
+&lt;input type="tel" id="telefon" name="telefon" class="form-control">
+&lt;/div>
+&lt;div class="form-group">
+&lt;label for="message">Warum möchtest du teilnehmen?&lt;/label>
+&lt;textarea id="message" name="message" rows="5" required class="form-control">&lt;/textarea>
+&lt;/div>
+&lt;button type="submit" class="btn btn-primary">Absenden&lt;/button>
+&lt;/form>
+&lt;div id="form-feedback" style="margin-top:1rem; color: green; display: none;">&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;script src="https://allegra.topli.ch/js/form.js">&lt;/script>
+&lt;/p></description></item><item><title>Йога-клуб</title><link>https://allegra.topli.ch/uk/atelier/yoga/</link><pubDate>Tue, 22 Jul 2025 00:00:00 +0000</pubDate><guid>https://allegra.topli.ch/uk/atelier/yoga/</guid><description>&lt;h2 id="що-ми-робимо">Що ми робимо&lt;/h2>
+&lt;p>Йога-клуб — це прості практики для всіх: як для новачків, так і для тих, хто вже займався.&lt;/p>
+&lt;p>Ми зосереджуємось на розслабленні, дихальних вправах і плавних рухах. Це можливість відпочити, зосередитись і відчути тіло.&lt;/p>
+&lt;hr>
+&lt;h2 id="організаційне">Організаційне&lt;/h2>
+&lt;ul>
+&lt;li>🗓 &lt;strong>Коли&lt;/strong>: Щосереди, з 19:00 до 20:00&lt;/li>
+&lt;li>📍 &lt;strong>Де&lt;/strong>: Громадський центр Allegra, Цюрих&lt;/li>
+&lt;li>💸 &lt;strong>Участь&lt;/strong>: Безкоштовно, є килимки для йоги. Рекомендується зручний одяг.&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2 id="контакт">Контакт&lt;/h2>
+&lt;style>
+.contact-grid {
+display: flex;
+flex-wrap: wrap;
+gap: 2rem;
+align-items: flex-start;
+margin-top: 1.5rem;
+}
+.contact-left {
+flex: 1 1 300px;
+}
+.contact-right {
+flex: 0 0 200px;
+text-align: center;
+}
+.contact-right img {
+max-width: 100%;
+height: auto;
+border-radius: 8px;
+}
+&lt;/style>
+&lt;div class="contact-grid">
+&lt;div class="contact-left">
+&lt;p>&lt;strong>Verantwortlich:&lt;/strong> Олена Бейшпіль&lt;/p>
+&lt;p>&lt;strong>E-Mail:&lt;/strong>
+&lt;a href="mailto:yoga@topli.ch">yoga@topli.ch&lt;/a>
+&lt;/p>
+&lt;p>&lt;strong>Telefon:&lt;/strong>
+&lt;a href="tel:&amp;#43;41%2079%20333%2022%2011">&amp;#43;41 79 333 22 11&lt;/a>
+&lt;/p>
+&lt;p>&lt;strong>WhatsApp:&lt;/strong>
+&lt;a href="https://chat.whatsapp.com/KZV3bPVijqBEgX8aikWCWS" target="_blank" rel="noopener">Gruppe beitreten&lt;/a>
+&lt;/p>
+&lt;/div>
+&lt;/div>
+&lt;hr>
+&lt;h2 id="я-хочу-приєднатися">Я хочу приєднатися&lt;/h2>
+&lt;p>
+&lt;script>
+window.formLang = {
+wait: "Будь ласка, зачекайте...",
+success: "Дякуємо за вашу заявку!",
+error: "Помилка при надсиланні",
+errormsg: "Помилка:",
+invalid: "Некоректне значення"
+};
+&lt;/script>
+&lt;div class="contact-container">
+&lt;div class="contact-right">
+&lt;form id="contact-form">
+&lt;input type="hidden" name="from_name" value="Йога-клуб Anmeldung">
+&lt;input type="hidden" name="from_email" value="form-yoga@chumm.ch">
+&lt;input type="hidden" name="to_email" value="yoga@topli.ch">
+&lt;input type="hidden" name="subject" value="Нова заявка – Йога-клуб">
+&lt;input type="text" name="honeypot" id="honeypot" style="display:none" autocomplete="off">
+&lt;div class="form-group">
+&lt;label for="name">Name&lt;/label>
+&lt;input type="text" id="name" name="name" required class="form-control">
+&lt;/div>
+&lt;div class="form-group">
+&lt;label for="email">E-Mail&lt;/label>
+&lt;input type="email" id="email" name="email" required class="form-control">
+&lt;/div>
+&lt;div class="form-group">
+&lt;label for="telefon">Telefon&lt;/label>
+&lt;input type="tel" id="telefon" name="telefon" class="form-control">
+&lt;/div>
+&lt;div class="form-group">
+&lt;label for="message">Warum möchtest du teilnehmen?&lt;/label>
+&lt;textarea id="message" name="message" rows="5" required class="form-control">&lt;/textarea>
+&lt;/div>
+&lt;button type="submit" class="btn btn-primary">Absenden&lt;/button>
+&lt;/form>
+&lt;div id="form-feedback" style="margin-top:1rem; color: green; display: none;">&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;script src="https://allegra.topli.ch/js/form.js">&lt;/script>
+&lt;/p></description></item><item><title>Мовний клуб</title><link>https://allegra.topli.ch/uk/atelier/sprach/</link><pubDate>Tue, 22 Jul 2025 00:00:00 +0000</pubDate><guid>https://allegra.topli.ch/uk/atelier/sprach/</guid><description>&lt;h2 id="що-ми-робимо">Що ми робимо&lt;/h2>
+&lt;p>У мовному клубі зустрічаються люди з різними рідними мовами, щоб разом практикувати німецьку та спілкуватися.
+Ласкаво просимо всіх — і початківців, і досвідчених!&lt;/p>
+&lt;p>Ми говоримо в невеликих групах, граємо в мовні ігри та допомагаємо одне одному впевненіше спілкуватися.&lt;/p>
+&lt;hr>
+&lt;h2 id="організаційні-деталі">Організаційні деталі&lt;/h2>
+&lt;ul>
+&lt;li>🗓 &lt;strong>Коли&lt;/strong>: Щовівторка, 18:00–19:30&lt;/li>
+&lt;li>📍 &lt;strong>Де&lt;/strong>: Gemeindеhaus Allegra, Цюрих&lt;/li>
+&lt;li>💸 &lt;strong>Участь&lt;/strong>: Безкоштовно&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2 id="контакт">Контакт&lt;/h2>
+&lt;style>
+.contact-grid {
+display: flex;
+flex-wrap: wrap;
+gap: 2rem;
+align-items: flex-start;
+margin-top: 1.5rem;
+}
+.contact-left {
+flex: 1 1 300px;
+}
+.contact-right {
+flex: 0 0 200px;
+text-align: center;
+}
+.contact-right img {
+max-width: 100%;
+height: auto;
+border-radius: 8px;
+}
+&lt;/style>
+&lt;div class="contact-grid">
+&lt;div class="contact-left">
+&lt;p>&lt;strong>Verantwortlich:&lt;/strong> Анна Бейшпіль&lt;/p>
+&lt;p>&lt;strong>E-Mail:&lt;/strong>
+&lt;a href="mailto:sprach@topli.ch">sprach@topli.ch&lt;/a>
+&lt;/p>
+&lt;p>&lt;strong>Telefon:&lt;/strong>
+&lt;a href="tel:&amp;#43;41%2079%20123%2045%2067">&amp;#43;41 79 123 45 67&lt;/a>
+&lt;/p>
+&lt;p>&lt;strong>WhatsApp:&lt;/strong>
+&lt;a href="https://chat.whatsapp.com/Beispiel-Link" target="_blank" rel="noopener">Gruppe beitreten&lt;/a>
+&lt;/p>
+&lt;/div>
+&lt;/div>
+&lt;hr>
+&lt;h2 id="я-хочу-приєднатися">Я хочу приєднатися&lt;/h2>
+&lt;p>
+&lt;script>
+window.formLang = {
+wait: "Будь ласка, зачекайте...",
+success: "Дякуємо за вашу заявку!",
+error: "Помилка при надсиланні",
+errormsg: "Помилка:",
+invalid: "Некоректне значення"
+};
+&lt;/script>
+&lt;div class="contact-container">
+&lt;div class="contact-right">
+&lt;form id="contact-form">
+&lt;input type="hidden" name="from_name" value="Мовний клуб Anmeldung">
+&lt;input type="hidden" name="from_email" value="form-sprach@chumm.ch">
+&lt;input type="hidden" name="to_email" value="sprach@topli.ch">
+&lt;input type="hidden" name="subject" value="Нова реєстрація – Мовна майстерня">
+&lt;input type="text" name="honeypot" id="honeypot" style="display:none" autocomplete="off">
+&lt;div class="form-group">
+&lt;label for="name">Name&lt;/label>
+&lt;input type="text" id="name" name="name" required class="form-control">
+&lt;/div>
+&lt;div class="form-group">
+&lt;label for="email">E-Mail&lt;/label>
+&lt;input type="email" id="email" name="email" required class="form-control">
+&lt;/div>
+&lt;div class="form-group">
+&lt;label for="telefon">Telefon&lt;/label>
+&lt;input type="tel" id="telefon" name="telefon" class="form-control">
+&lt;/div>
+&lt;div class="form-group">
+&lt;label for="message">Warum möchtest du teilnehmen?&lt;/label>
+&lt;textarea id="message" name="message" rows="5" required class="form-control">&lt;/textarea>
+&lt;/div>
+&lt;button type="submit" class="btn btn-primary">Absenden&lt;/button>
+&lt;/form>
+&lt;div id="form-feedback" style="margin-top:1rem; color: green; display: none;">&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;script src="https://allegra.topli.ch/js/form.js">&lt;/script>
+&lt;/p></description></item><item><title>Прогулянковий клуб</title><link>https://allegra.topli.ch/uk/atelier/wander/</link><pubDate>Tue, 22 Jul 2025 00:00:00 +0000</pubDate><guid>https://allegra.topli.ch/uk/atelier/wander/</guid><description>&lt;h2 id="що-ми-робимо">Що ми робимо&lt;/h2>
+&lt;p>У Прогулянковому клубі ми разом вирушаємо на легкі прогулянки навколо Цюриха. Ми знайомимось, спілкуємось, дихаємо свіжим повітрям і просто радіємо природі.&lt;/p>
+&lt;p>Наші прогулянки неквапливі й підходять для всіх охочих – чудовий спосіб завести нові знайомства.&lt;/p>
+&lt;hr>
+&lt;h2 id="організаційне">Організаційне&lt;/h2>
+&lt;ul>
+&lt;li>🗓 &lt;strong>Коли&lt;/strong>: Щонеділі (через тиждень), з 10:00 до 13:00&lt;/li>
+&lt;li>📍 &lt;strong>Де&lt;/strong>: Точку збору повідомляємо заздалегідь&lt;/li>
+&lt;li>💸 &lt;strong>Вартість&lt;/strong>: Безкоштовно, бажано мати зручний одяг для погоди&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2 id="контакт">Контакт&lt;/h2>
+&lt;style>
+.contact-grid {
+display: flex;
+flex-wrap: wrap;
+gap: 2rem;
+align-items: flex-start;
+margin-top: 1.5rem;
+}
+.contact-left {
+flex: 1 1 300px;
+}
+.contact-right {
+flex: 0 0 200px;
+text-align: center;
+}
+.contact-right img {
+max-width: 100%;
+height: auto;
+border-radius: 8px;
+}
+&lt;/style>
+&lt;div class="contact-grid">
+&lt;div class="contact-left">
+&lt;p>&lt;strong>Verantwortlich:&lt;/strong> Томас Бейшпіль&lt;/p>
+&lt;p>&lt;strong>E-Mail:&lt;/strong>
+&lt;a href="mailto:wander@topli.ch">wander@topli.ch&lt;/a>
+&lt;/p>
+&lt;p>&lt;strong>Telefon:&lt;/strong>
+&lt;a href="tel:&amp;#43;41%2079%20987%2065%2043">&amp;#43;41 79 987 65 43&lt;/a>
+&lt;/p>
+&lt;p>&lt;strong>WhatsApp:&lt;/strong>
+&lt;a href="https://chat.whatsapp.com/DEIN-LINK-ZUR-GRUPPE" target="_blank" rel="noopener">Gruppe beitreten&lt;/a>
+&lt;/p>
+&lt;/div>
+&lt;div class="contact-right">
+&lt;img src="https://allegra.topli.ch/de/atelier/wander/wander-qr.png" alt="WhatsApp QR-Code" style="max-width: 150px;">
+&lt;/div>
+&lt;/div>
+&lt;hr>
+&lt;h2 id="я-хочу-приєднатися">Я хочу приєднатися&lt;/h2>
+&lt;p>
+&lt;script>
+window.formLang = {
+wait: "Будь ласка, зачекайте...",
+success: "Дякуємо за вашу заявку!",
+error: "Помилка при надсиланні",
+errormsg: "Помилка:",
+invalid: "Некоректне значення"
+};
+&lt;/script>
+&lt;div class="contact-container">
+&lt;div class="contact-right">
+&lt;form id="contact-form">
+&lt;input type="hidden" name="from_name" value="Прогулянковий клуб Anmeldung">
+&lt;input type="hidden" name="from_email" value="form-wander@chumm.ch">
+&lt;input type="hidden" name="to_email" value="wander@topli.ch">
+&lt;input type="hidden" name="subject" value="Нова заявка – Прогулянковий клуб">
+&lt;input type="text" name="honeypot" id="honeypot" style="display:none" autocomplete="off">
+&lt;div class="form-group">
+&lt;label for="name">Name&lt;/label>
+&lt;input type="text" id="name" name="name" required class="form-control">
+&lt;/div>
+&lt;div class="form-group">
+&lt;label for="email">E-Mail&lt;/label>
+&lt;input type="email" id="email" name="email" required class="form-control">
+&lt;/div>
+&lt;div class="form-group">
+&lt;label for="telefon">Telefon&lt;/label>
+&lt;input type="tel" id="telefon" name="telefon" class="form-control">
+&lt;/div>
+&lt;div class="form-group">
+&lt;label for="message">Warum möchtest du teilnehmen?&lt;/label>
+&lt;textarea id="message" name="message" rows="5" required class="form-control">&lt;/textarea>
+&lt;/div>
+&lt;button type="submit" class="btn btn-primary">Absenden&lt;/button>
+&lt;/form>
+&lt;div id="form-feedback" style="margin-top:1rem; color: green; display: none;">&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;script src="https://allegra.topli.ch/js/form.js">&lt;/script>
+&lt;/p></description></item><item><title>Фотографія</title><link>https://allegra.topli.ch/uk/atelier/fotografia/</link><pubDate>Fri, 18 Jul 2025 00:00:00 +0000</pubDate><guid>https://allegra.topli.ch/uk/atelier/fotografia/</guid><description>&lt;p>Фотоклуб — простір для тих, хто захоплюється фотографією, редагуванням і виставками.&lt;/p>
 &lt;p>Ми разом вирушаємо на фотопрогулянки, ділимось досвідом і створюємо мінівиставки.&lt;/p>
 &lt;p>&lt;strong>Контактна особа&lt;/strong>: Ліза Мустер&lt;br>
 &lt;strong>E-mail&lt;/strong>: &lt;a href="mailto:lisa@example.com">lisa@example.com&lt;/a>&lt;br>
-&lt;strong>Група WhatsApp&lt;/strong>: &lt;a href="https://chat.whatsapp.com/pryklad-link" target="_blank" rel="noopener">Приєднатись до чату&lt;/a>&lt;/p></description></item><item><title>Contact</title><link>https://allegra.topli.ch/uk/contact/</link><pubDate>Mon, 24 Oct 2022 00:00:00 +0000</pubDate><guid>https://allegra.topli.ch/uk/contact/</guid><description/></item></channel></rss>
+&lt;strong>Група WhatsApp&lt;/strong>: &lt;a href="https://chat.whatsapp.com/pryklad-link" target="_blank" rel="noopener">Приєднатись до чату&lt;/a>&lt;/p></description></item><item><title>Команда</title><link>https://allegra.topli.ch/uk/about/team/</link><pubDate>Mon, 24 Oct 2022 00:00:00 +0000</pubDate><guid>https://allegra.topli.ch/uk/about/team/</guid><description/></item><item><title>Контакт</title><link>https://allegra.topli.ch/uk/contact/</link><pubDate>Mon, 24 Oct 2022 00:00:00 +0000</pubDate><guid>https://allegra.topli.ch/uk/contact/</guid><description/></item><item><title>Про нас</title><link>https://allegra.topli.ch/uk/about/about/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://allegra.topli.ch/uk/about/about/</guid><description>&lt;h2 id="хто-ми">Хто ми&lt;/h2>
+&lt;p>&lt;strong>Allegra March&lt;/strong> — це неприбуткова організація, яка об&amp;rsquo;єднує волонтерів з різних країн і культур. Наша мета — сприяти розвитку спільноти та міжкультурного обміну, щоб полегшити інтеграцію та інклюзію в Швейцарії.&lt;/p>
+&lt;p>Пропозиція відкрита для всіх мешканців району &lt;strong>Марч&lt;/strong> — як місцевих, так і новоприбулих.&lt;/p>
+&lt;hr>
+&lt;h2 id="наша-концепція">Наша концепція&lt;/h2>
+&lt;blockquote>
+&lt;p>&lt;em>&amp;ldquo;Проєкт живе завдяки різноманітній участі всіх.&amp;rdquo;&lt;/em>&lt;br>
+– Принцип організації&lt;/p>
+&lt;/blockquote>
+&lt;p>У різних &lt;strong>Ательє&lt;/strong> зацікавлені люди збираються разом і цікаво проводять свій вільний час.&lt;/p>
+&lt;p>🧵 Переглянути доступні ательє та зареєструватися можна в розділі &lt;a href="https://allegra.topli.ch/uk/atelier/">&lt;strong>Ательє&lt;/strong>&lt;/a>.&lt;br>
+🤝 Якщо ти хочеш запропонувати власне ательє — ми будемо раді твоїй &lt;a href="https://allegra.topli.ch/uk/contact/">&lt;strong>заявці&lt;/strong>&lt;/a>.&lt;/p>
+&lt;hr>
+&lt;h2 id="спільна-діяльність">Спільна діяльність&lt;/h2>
+&lt;p>Кожні кілька місяців усі охочі збираються на &lt;strong>пленум&lt;/strong>,&lt;br>
+де презентуються результати діяльності ательє&lt;br>
+та обговорюються нові ініціативи.&lt;/p>
+&lt;p>🗓 Актуальні дати — у розділі &lt;a href="https://allegra.topli.ch/uk/notices/agenda/">&lt;strong>Порядок денний&lt;/strong>&lt;/a>&lt;/p>
+&lt;hr>
+&lt;h2 id="інші-пропозиції">Інші пропозиції&lt;/h2>
+&lt;p>📌 У співпраці з &lt;strong>Komin&lt;/strong> ми проводимо &lt;strong>інформаційні заходи&lt;/strong>&lt;br>
+на теми, пов&amp;rsquo;язані з життям у Швейцарії.&lt;br>
+Деталі — у розділі &lt;a href="https://allegra.topli.ch/uk/notices/infopoint/">&lt;strong>Інфо-Пойнт&lt;/strong>&lt;/a>&lt;/p>
+&lt;p>🖼 Перші враження від наших заходів можна отримати, переглянувши &lt;a href="https://allegra.topli.ch/uk/notices/gallery/">&lt;strong>Галерею&lt;/strong>&lt;/a>&lt;/p>
+&lt;p>📰 Репортажі про наш проєкт та організацію — у розділі &lt;a href="https://allegra.topli.ch/uk/notices/info/">&lt;strong>Новини&lt;/strong>&lt;/a>&lt;/p>
+&lt;p>📱 Ми також присутні на популярних &lt;strong>соціальних платформах&lt;/strong>.&lt;/p></description></item></channel></rss>

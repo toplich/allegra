@@ -1,30 +1,909 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Allegra March</title><link>https://allegra.topli.ch/de/</link><atom:link href="https://allegra.topli.ch/de/index.xml" rel="self" type="application/rss+xml"/><description>Allegra March</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>de</language><lastBuildDate>Sat, 19 Jul 2025 00:00:00 +0000</lastBuildDate><image><url>https://allegra.topli.ch/media/icon_hu_7613a4a452ac7087.png</url><title>Allegra March</title><link>https://allegra.topli.ch/de/</link></image><item><title>Example Event</title><link>https://allegra.topli.ch/de/event/example/</link><pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate><guid>https://allegra.topli.ch/de/event/example/</guid><description>&lt;p>Slides can be added in a few ways:&lt;/p>
-&lt;ul>
-&lt;li>&lt;strong>Create&lt;/strong> slides using Wowchemy&amp;rsquo;s &lt;a href="https://docs.hugoblox.com/managing-content/#create-slides" target="_blank" rel="noopener">&lt;em>Slides&lt;/em>&lt;/a> feature and link using &lt;code>slides&lt;/code> parameter in the front matter of the talk file&lt;/li>
-&lt;li>&lt;strong>Upload&lt;/strong> an existing slide deck to &lt;code>static/&lt;/code> and link using &lt;code>url_slides&lt;/code> parameter in the front matter of the talk file&lt;/li>
-&lt;li>&lt;strong>Embed&lt;/strong> your slides (e.g. Google Slides) or presentation video on this page using &lt;a href="https://docs.hugoblox.com/writing-markdown-latex/" target="_blank" rel="noopener">shortcodes&lt;/a>.&lt;/li>
-&lt;/ul>
-&lt;p>Further event details, including page elements such as image galleries, can be added to the body of this page.&lt;/p></description></item><item><title>Datenschutz</title><link>https://allegra.topli.ch/de/datenschutz/</link><pubDate>Sat, 19 Jul 2025 00:00:00 +0000</pubDate><guid>https://allegra.topli.ch/de/datenschutz/</guid><description>&lt;p>Wir nehmen den Schutz Ihrer persönlichen Daten sehr ernst. Diese Datenschutzerklärung informiert Sie über die Art, den Umfang und den Zweck der Verarbeitung von personenbezogenen Daten auf unserer Website gemäß dem schweizerischen Datenschutzgesetz (revDSG) sowie – soweit anwendbar – der EU-DSGVO.&lt;/p>
-&lt;h3 id="verantwortliche-stelle">Verantwortliche Stelle&lt;/h3>
-&lt;p>Allegra Verein&lt;br>
-Musterstrasse 1&lt;br>
-8000 Zürich&lt;br>
-E-Mail: &lt;a href="mailto:kontakt@allegra.ch">kontakt@allegra.ch&lt;/a>&lt;/p>
-&lt;h3 id="welche-daten-wir-verarbeiten">Welche Daten wir verarbeiten&lt;/h3>
-&lt;ul>
-&lt;li>&lt;strong>Kontaktformulare&lt;/strong>: Wenn Sie uns über ein Formular kontaktieren, speichern wir die von Ihnen angegebenen Informationen (Name, E-Mail usw.), um Ihre Anfrage zu bearbeiten.&lt;/li>
-&lt;li>&lt;strong>WhatsApp-Links&lt;/strong>: Durch Klick auf einen WhatsApp-Link wird Ihre IP-Adresse an WhatsApp weitergegeben. Bitte beachten Sie deren Datenschutzrichtlinien.&lt;/li>
-&lt;li>&lt;strong>Besucherstatistik (optional)&lt;/strong>: Wir verwenden derzeit &lt;strong>keine&lt;/strong> Tracking-Dienste wie Google Analytics.&lt;/li>
-&lt;/ul>
-&lt;h3 id="ihre-rechte">Ihre Rechte&lt;/h3>
-&lt;p>Sie haben das Recht auf Auskunft, Berichtigung, Löschung oder Einschränkung der Verarbeitung Ihrer Daten. Kontaktieren Sie uns jederzeit unter der oben genannten E-Mail-Adresse.&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Allegra March</title><link>https://allegra.topli.ch/de/</link><atom:link href="https://allegra.topli.ch/de/index.xml" rel="self" type="application/rss+xml"/><description>Allegra March</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>de</language><lastBuildDate>Sat, 19 Jul 2025 00:00:00 +0000</lastBuildDate><image><url>https://allegra.topli.ch/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url><title>Allegra March</title><link>https://allegra.topli.ch/de/</link></image><item><title>Info-Point - Krankenversicherung</title><link>https://allegra.topli.ch/de/notices/infopoint/2025-10-15/</link><pubDate>Wed, 15 Oct 2025 18:00:00 +0000</pubDate><guid>https://allegra.topli.ch/de/notices/infopoint/2025-10-15/</guid><description/></item><item><title>Treffen der Allegra March</title><link>https://allegra.topli.ch/de/notices/agenda/2025-09-22/</link><pubDate>Mon, 22 Sep 2025 18:00:00 +0000</pubDate><guid>https://allegra.topli.ch/de/notices/agenda/2025-09-22/</guid><description/></item><item><title>Neues Spiel-Atelier gestartet!</title><link>https://allegra.topli.ch/de/notices/info/spieltag/</link><pubDate>Fri, 01 Aug 2025 00:00:00 +0000</pubDate><guid>https://allegra.topli.ch/de/notices/info/spieltag/</guid><description>&lt;p>Wir freuen uns sehr, euch unseren &lt;strong>neuen Club – das Spiel-Atelier&lt;/strong> – vorzustellen!&lt;/p>
+&lt;p>Ab &lt;strong>Freitag, dem 26. Juli 2025&lt;/strong>, treffen wir uns wöchentlich, um gemeinsam Brettspiele, Kartenspiele und andere Gesellschaftsspiele zu spielen.&lt;br>
+&lt;strong>Alle sind willkommen&lt;/strong> – egal ob Kinder, Erwachsene, Familien oder Senior*innen.&lt;/p>
 &lt;hr>
-&lt;p>Diese Seite wird regelmäßig aktualisiert. Letzte Änderung: 19. Juli 2025.&lt;/p></description></item><item><title>Fotografie-Atelier</title><link>https://allegra.topli.ch/de/atelier/fotografie/</link><pubDate>Fri, 18 Jul 2025 00:00:00 +0000</pubDate><guid>https://allegra.topli.ch/de/atelier/fotografie/</guid><description>&lt;p>Im Fotografie-Atelier treffen sich kreative Menschen, die gern fotografieren, bearbeiten und ausstellen.&lt;/p>
-&lt;p>Wir unternehmen gemeinsame Fotowalks, teilen Tipps zur Bildbearbeitung und organisieren Ausstellungen.&lt;/p>
-&lt;p>&lt;strong>Kontaktperson&lt;/strong>: Lisa Musterfrau&lt;br>
-&lt;strong>E-Mail&lt;/strong>: &lt;a href="mailto:lisa@example.com">lisa@example.com&lt;/a>&lt;br>
-&lt;strong>WhatsApp-Gruppe&lt;/strong>: &lt;a href="https://chat.whatsapp.com/Beispiel-Link" target="_blank" rel="noopener">Zum Chat&lt;/a>&lt;/p></description></item><item><title>Über uns</title><link>https://allegra.topli.ch/de/about/</link><pubDate>Fri, 18 Jul 2025 00:00:00 +0000</pubDate><guid>https://allegra.topli.ch/de/about/</guid><description>&lt;p>Willkommen bei &lt;strong>Allegra&lt;/strong> – einer gemeinnützigen Initiative in der Schweiz, die Integration durch echte menschliche Begegnungen fördert.&lt;/p>
-&lt;p>Unser Ziel ist es, &lt;strong>Clubs und Ateliers&lt;/strong> zu organisieren, in denen Einheimische und Zugezogene sich regelmäßig treffen, Erfahrungen austauschen und voneinander lernen können.&lt;/p>
-&lt;p>Ob Fotografie, Sprachen, Spiele oder gemeinsames Kochen – unsere Ateliers schaffen Raum für Dialog, Kreativität und Respekt.&lt;/p>
-&lt;p>Wir glauben: Integration beginnt nicht mit Formularen, sondern mit einem Lächeln und einem offenen Ohr.&lt;/p>
-&lt;p>&lt;strong>Mach mit – werde Teil unserer Gemeinschaft!&lt;/strong>&lt;/p></description></item><item><title>Contact</title><link>https://allegra.topli.ch/de/contact/</link><pubDate>Mon, 24 Oct 2022 00:00:00 +0000</pubDate><guid>https://allegra.topli.ch/de/contact/</guid><description/></item></channel></rss>
+&lt;h3 id="-was-erwartet-euch">🧩 Was erwartet euch?&lt;/h3>
+&lt;ul>
+&lt;li>Eine entspannte, freundliche Atmosphäre&lt;/li>
+&lt;li>Spiele für jedes Alter und Interesse&lt;/li>
+&lt;li>Möglichkeit, neue Leute kennenzulernen&lt;/li>
+&lt;li>Getränke und Snacks vor Ort&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h3 id="-infos-im-überblick">📍 Infos im Überblick&lt;/h3>
+&lt;ul>
+&lt;li>📅 &lt;strong>Wann:&lt;/strong> Jeden Freitag, 17:30–19:30 Uhr&lt;/li>
+&lt;li>📍 &lt;strong>Wo:&lt;/strong> Gemeindehaus Allegra, Zürich&lt;/li>
+&lt;li>💸 &lt;strong>Teilnahme:&lt;/strong> Kostenlos&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h3 id="-kontakt--anmeldung">📞 Kontakt &amp;amp; Anmeldung&lt;/h3>
+&lt;p>&lt;a href="https://allegra.topli.ch/atelier/spiel/">Zur Club-Seite mit Infos und Anmeldung&lt;/a>&lt;/p>
+&lt;hr>
+&lt;p>🎲 &lt;strong>Wir freuen uns auf viele Mitspielerinnen und Mitspieler!&lt;/strong>&lt;/p>
+&lt;hr>
+&lt;blockquote>
+&lt;p>📣 &lt;em>Du möchtest deinen eigenen Club starten? Schreib uns gern!&lt;/em>&lt;/p>
+&lt;/blockquote>
+&lt;hr></description></item><item><title>Umfrage</title><link>https://allegra.topli.ch/de/notices/info/umfrage/</link><pubDate>Wed, 30 Jul 2025 00:00:00 +0000</pubDate><guid>https://allegra.topli.ch/de/notices/info/umfrage/</guid><description>
+&lt;iframe src="https://docs.google.com/forms/d/e/1FAIpQLScCa7DzlyLSd2e9-3pZ6rybbNL8QxRYFRT6XxezE-P358vnPQ/viewform?usp=dialog"
+width="100%" height="1000" frameborder="0" marginheight="0" marginwidth="0"
+style="border: none; max-width: 100%;">
+Wird geladen…
+&lt;/iframe>
+&lt;hr></description></item><item><title>Dank</title><link>https://allegra.topli.ch/de/about/dank/</link><pubDate>Mon, 28 Jul 2025 00:00:00 +0000</pubDate><guid>https://allegra.topli.ch/de/about/dank/</guid><description>&lt;p>&lt;strong>Wir sagen Danke!&lt;/strong>&lt;/p>
+&lt;p>Wir bedanken uns bei allen freiwilligen Mitarbeitern des Vereines Allegra March und bei den Personen, die Ateliers und Info-Point-Veranstaltungen anbieten.&lt;/p>
+&lt;p>Ein besonderer Dank gilt dem Komin für die Starthilfe unseres Vereines, ihre tatkräftige Unterstützung unserer Arbeit und für ihre wertvolle Aufgabe als Ansprechpartner.&lt;/p>
+&lt;p>Und nicht zuletzt allen Teilnehmenden an den Ateliers und Info-Point-Veranstaltungen. Mit euch können wir Integration und Inklusion leben.&lt;/p></description></item><item><title>Datenschutz &amp; Privatsphäre</title><link>https://allegra.topli.ch/de/privacy/</link><pubDate>Mon, 28 Jul 2025 00:00:00 +0000</pubDate><guid>https://allegra.topli.ch/de/privacy/</guid><description>&lt;h2 id="datenschutz--privatsphäre">Datenschutz &amp;amp; Privatsphäre&lt;/h2>
+&lt;p>Uns ist der Schutz deiner Daten und deiner Privatsphäre sehr wichtig.&lt;br>
+Du entscheidest jeweils, was du von dir preisgeben möchtest und was mit deinen Daten gemacht wird.&lt;/p>
+&lt;hr>
+&lt;h2 id="anmeldung-und-kontaktaufnahme">Anmeldung und Kontaktaufnahme&lt;/h2>
+&lt;p>Bei der Anmeldung für ein Atelier oder eine Info-Point-Veranstaltung gibst du uns jeweils deinen Namen und eine Kontaktmöglichkeit, sei das via E-Mail und/oder per Telefon/Smartphone an.&lt;br>
+Diese Daten werden &lt;strong>nur für die Teilnehmerliste des jeweiligen Anlasses&lt;/strong> verwendet und &lt;strong>nicht an Drittpersonen weitergegeben&lt;/strong>.&lt;/p>
+&lt;p>Um in Kontakt mit der Atelierleitung zu kommen und wichtige Informationen zum Atelier zu erhalten, steht dir die Möglichkeit offen, in einem &lt;strong>WhatsApp-Chat&lt;/strong> (beachte dazu die &lt;a href="https://www.whatsapp.com/legal/privacy-policy-eea" target="_blank" rel="noopener">WhatsApp Datenschutzerklärung&lt;/a>) teilzunehmen.&lt;br>
+Möchtest du die Informationen lieber per Mail erhalten, darfst du dies direkt bei der Atelierleitung mitteilen.&lt;/p>
+&lt;hr>
+&lt;h2 id="fotos--öffentlichkeitsarbeit">Fotos &amp;amp; Öffentlichkeitsarbeit&lt;/h2>
+&lt;p>Um für die Arbeit unseres Vereines zu werben und Impressionen von Ateliers auf unserer Homepage und verschiedenen Social-Media Plattformen zu präsentieren, werden &lt;strong>während einer Veranstaltung Fotos gemacht&lt;/strong>.&lt;/p>
+&lt;p>📷 &lt;strong>Das Fotografieren während eines Anlasses ist ausschließlich&lt;/strong>:&lt;/p>
+&lt;ul>
+&lt;li>der Atelierleitung oder&lt;/li>
+&lt;li>einem Mitglied des Vereins gestattet,&lt;br>
+welches als Unterstützung oder extra zum Fotografieren die jeweilige Veranstaltung besucht.&lt;/li>
+&lt;/ul>
+&lt;p>🛑 &lt;strong>Allen anderen Teilnehmenden ist das Fotografieren untersagt.&lt;/strong>&lt;br>
+So können wir gewährleisten, dass die von euch gewünschte &lt;strong>Privatsphäre&lt;/strong> (siehe nächster Abschnitt) respektiert wird.&lt;/p>
+&lt;hr>
+&lt;h2 id="einverständniserklärung">Einverständniserklärung&lt;/h2>
+&lt;p>Zu Beginn eines Ateliers füllst du jeweils eine &lt;strong>Einverständniserklärung&lt;/strong> aus.&lt;br>
+Darin kannst du festhalten:&lt;/p>
+&lt;ul>
+&lt;li>ob wir ein Foto, auf welchem du abgebildet bist, veröffentlichen dürfen oder nicht&lt;/li>
+&lt;li>ob dein Gesicht zu sehen sein darf, oder du nur solchen Aufnahmen zustimmst,&lt;br>
+auf denen du z. B. von hinten zu sehen bist&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2 id="ausführliche-richtlinien">Ausführliche Richtlinien&lt;/h2>
+&lt;p>📄 Die ausführlichen Datenschutzrichtli&lt;/p></description></item><item><title>Rückblick – Sprach-Picknick am Zürichsee</title><link>https://allegra.topli.ch/de/notices/gallery/sprach-picknick/</link><pubDate>Thu, 24 Jul 2025 09:00:00 +0200</pubDate><guid>https://allegra.topli.ch/de/notices/gallery/sprach-picknick/</guid><description>&lt;h2 id="rückblick">Rückblick&lt;/h2>
+&lt;p>Vielen Dank an alle, die dabei waren!&lt;/p>
+&lt;p>Das &lt;strong>Sprach-Picknick am Zürichsee&lt;/strong> war ein voller Erfolg:&lt;br>
+Über 30 Menschen aus unterschiedlichen Kulturen haben gemeinsam gespielt, gegessen und natürlich viel Deutsch gesprochen.&lt;/p>
+&lt;p>Besonders erfreulich war das offene Miteinander und die entspannte Atmosphäre.&lt;br>
+Einige Eindrücke findest du in unserer Galerie:&lt;/p>
+&lt;div class="simple-gallery">
+&lt;img src="https://allegra.topli.ch/de/notices/gallery/sprach-picknick/sprach-event.png" alt="sprach-event.png" class="gallery-img" data-index="0">
+&lt;img src="https://allegra.topli.ch/de/notices/gallery/sprach-picknick/sprach-event2.png" alt="sprach-event2.png" class="gallery-img" data-index="1">
+&lt;img src="https://allegra.topli.ch/de/notices/gallery/sprach-picknick/sprach-event3.png" alt="sprach-event3.png" class="gallery-img" data-index="2">
+&lt;/div>
+&lt;div id="lightbox" class="lightbox hidden">
+&lt;button id="prev-btn" class="lightbox-nav">&amp;larr;&lt;/button>
+&lt;img id="lightbox-img" src="" alt="">
+&lt;button id="next-btn" class="lightbox-nav">&amp;rarr;&lt;/button>
+&lt;/div>
+&lt;script>
+document.addEventListener("DOMContentLoaded", () => {
+const images = Array.from(document.querySelectorAll(".gallery-img"));
+const lightbox = document.getElementById("lightbox");
+const lightboxImg = document.getElementById("lightbox-img");
+const prevBtn = document.getElementById("prev-btn");
+const nextBtn = document.getElementById("next-btn");
+let currentIndex = 0;
+function showImage(index) {
+currentIndex = index;
+lightboxImg.src = images[currentIndex].src;
+lightbox.classList.remove("hidden");
+}
+function hideLightbox() {
+lightbox.classList.add("hidden");
+lightboxImg.src = "";
+}
+images.forEach((img, i) => {
+img.addEventListener("click", () => showImage(i));
+});
+prevBtn.addEventListener("click", (e) => {
+e.stopPropagation();
+currentIndex = (currentIndex - 1 + images.length) % images.length;
+showImage(currentIndex);
+});
+nextBtn.addEventListener("click", (e) => {
+e.stopPropagation();
+currentIndex = (currentIndex + 1) % images.length;
+showImage(currentIndex);
+});
+lightbox.addEventListener("click", hideLightbox);
+document.addEventListener("keydown", (e) => {
+if (lightbox.classList.contains("hidden")) return;
+if (e.key === "Escape") hideLightbox();
+if (e.key === "ArrowRight") nextBtn.click();
+if (e.key === "ArrowLeft") prevBtn.click();
+});
+});
+&lt;/script>
+&lt;hr>
+&lt;h3 id="-veranstaltungsdetails">📍 Veranstaltungsdetails&lt;/h3>
+&lt;ul>
+&lt;li>📅 &lt;strong>Datum:&lt;/strong> 20. Juli 2025, 15:00–18:00 Uhr&lt;/li>
+&lt;li>📍 &lt;strong>Ort:&lt;/strong> Zürichseepark, Zürich&lt;/li>
+&lt;li>🧺 &lt;strong>Mitbringen:&lt;/strong> Etwas zum Teilen&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h3 id="-fotos--medien">📷 Fotos &amp;amp; Medien&lt;/h3>
+&lt;ul>
+&lt;li>&lt;a href="https://allegra.topli.ch/files/sprach-picknick-flyer.pdf">📄 Flyer zur Veranstaltung (PDF)&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.youtube.com/watch?v=video-id" target="_blank" rel="noopener">🎥 Video-Rückblick&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;blockquote>
+&lt;p>💬 &lt;em>Du warst dabei und möchtest deine Eindrücke teilen? Schreib uns gern oder sende uns deine Fotos!&lt;/em>&lt;/p>
+&lt;/blockquote></description></item><item><title>Sprach-Atelier</title><link>https://allegra.topli.ch/de/atelier/sprach/</link><pubDate>Thu, 24 Jul 2025 00:00:00 +0000</pubDate><guid>https://allegra.topli.ch/de/atelier/sprach/</guid><description>&lt;h2 id="was-wir-machen">Was wir machen&lt;/h2>
+&lt;p>Im Sprach-Atelier treffen sich Menschen mit verschiedenen Muttersprachen, um gemeinsam Deutsch zu üben und sich auszutauschen.
+Ob Anfänger oder Fortgeschrittene – alle sind willkommen!&lt;/p>
+&lt;p>Wir sprechen in kleinen Gruppen, spielen Sprachspiele und helfen uns gegenseitig, sicherer zu kommunizieren.&lt;/p>
+&lt;hr>
+&lt;h2 id="organisatorisches">Organisatorisches&lt;/h2>
+&lt;ul>
+&lt;li>🗓 &lt;strong>Wann&lt;/strong>: Jeden Dienstag, 18:00–19:30 Uhr&lt;/li>
+&lt;li>📍 &lt;strong>Wo&lt;/strong>: Gemeindehaus Allegra, Zürich&lt;/li>
+&lt;li>💸 &lt;strong>Teilnahme&lt;/strong>: Kostenlos&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2 id="kontakt">Kontakt&lt;/h2>
+&lt;style>
+.contact-grid {
+display: flex;
+flex-wrap: wrap;
+gap: 2rem;
+align-items: flex-start;
+margin-top: 1.5rem;
+}
+.contact-left {
+flex: 1 1 300px;
+}
+.contact-right {
+flex: 0 0 200px;
+text-align: center;
+}
+.contact-right img {
+max-width: 100%;
+height: auto;
+border-radius: 8px;
+}
+&lt;/style>
+&lt;div class="contact-grid">
+&lt;div class="contact-left">
+&lt;p>&lt;strong>Verantwortlich:&lt;/strong> Anna Beispiel&lt;/p>
+&lt;p>&lt;strong>E-Mail:&lt;/strong>
+&lt;a href="mailto:sprach@topli.ch">sprach@topli.ch&lt;/a>
+&lt;/p>
+&lt;p>&lt;strong>Telefon:&lt;/strong>
+&lt;a href="tel:&amp;#43;41%2079%20123%2045%2067">&amp;#43;41 79 123 45 67&lt;/a>
+&lt;/p>
+&lt;p>&lt;strong>WhatsApp:&lt;/strong>
+&lt;a href="https://chat.whatsapp.com/KZV3bPVijqBEgX8aikWCWS" target="_blank" rel="noopener">Gruppe beitreten&lt;/a>
+&lt;/p>
+&lt;/div>
+&lt;div class="contact-right">
+&lt;img src="https://allegra.topli.ch/de/atelier/sprach/sprach-qr.png" alt="WhatsApp QR-Code" style="max-width: 150px;">
+&lt;/div>
+&lt;/div>
+&lt;hr>
+&lt;h2 id="ich-möchte-teilnehmen">Ich möchte teilnehmen&lt;/h2>
+&lt;p>
+&lt;script>
+window.formLang = {
+wait: "Bitte warten...",
+success: "Danke für deine Anmeldung!",
+error: "Fehler beim Senden",
+errormsg: "Fehler:",
+invalid: "Ungültige Eingabe"
+};
+&lt;/script>
+&lt;div class="contact-container">
+&lt;div class="contact-right">
+&lt;div id="anmeldung-form" class="hidden">
+&lt;form id="contact-form">
+&lt;input type="hidden" name="from_name" value="Sprach-Atelier Anmeldung">
+&lt;input type="hidden" name="from_email" value="form-sprach@chumm.ch">
+&lt;input type="hidden" name="to_email" value="sprach@topli.ch">
+&lt;input type="hidden" name="subject" value="Neue Anmeldung – Sprach-Atelier">
+&lt;input type="text" name="honeypot" id="honeypot" style="display:none" autocomplete="off">
+&lt;div class="form-group">
+&lt;label for="gender">Geschlecht&lt;/label>
+&lt;select id="gender" name="gender" required class="form-control">
+&lt;option value="" disabled selected>Bitte wählen&lt;/option>
+&lt;option value="Mann">Mann&lt;/option>
+&lt;option value="Frau">Frau&lt;/option>
+&lt;option value="Divers">Divers&lt;/option>
+&lt;/select>
+&lt;/div>
+&lt;div class="form-group">
+&lt;label for="name">Name&lt;/label>
+&lt;input type="text" id="name" name="name" required class="form-control">
+&lt;/div>
+&lt;div class="form-group">
+&lt;label for="nationality">Nationalität&lt;/label>
+&lt;input type="text" id="nationality" name="nationality" class="form-control">
+&lt;/div>
+&lt;div class="form-group">
+&lt;label for="age_group">Altersgruppe&lt;/label>
+&lt;select id="age_group" name="age_group" required class="form-control">
+&lt;option value="" disabled selected>Bitte wählen&lt;/option>
+&lt;option value="unter 18">unter 18&lt;/option>
+&lt;option value="18–30">18–30&lt;/option>
+&lt;option value="31–50">31–50&lt;/option>
+&lt;option value="51+">51+&lt;/option>
+&lt;/select>
+&lt;/div>
+&lt;div class="form-group">
+&lt;label for="email">E-Mail&lt;/label>
+&lt;input type="email" id="email" name="email" required class="form-control">
+&lt;/div>
+&lt;div class="form-group">
+&lt;label for="telefon">Telefon&lt;/label>
+&lt;input type="tel" id="telefon" name="telefon" class="form-control">
+&lt;/div>
+&lt;div class="form-group">
+&lt;label for="message">Warum möchtest du teilnehmen?&lt;/label>
+&lt;textarea id="message" name="message" rows="5" required class="form-control">&lt;/textarea>
+&lt;/div>
+&lt;button type="submit" class="btn btn-primary">Absenden&lt;/button>
+&lt;/form>
+&lt;div id="form-feedback" style="margin-top:1rem; color: green; display: none;">&lt;/div>
+&lt;/div>
+&lt;button id="open-form" class="btn btn-secondary">Anmelden&lt;/button>
+&lt;/div>
+&lt;/div>
+&lt;script>
+document.addEventListener("DOMContentLoaded", () => {
+const formContainer = document.getElementById("anmeldung-form");
+const openButton = document.getElementById("open-form");
+const form = document.getElementById("contact-form");
+openButton.addEventListener("click", () => {
+formContainer.classList.remove("hidden");
+openButton.classList.add("hidden");
+});
+form.addEventListener("submit", async (e) => {
+e.preventDefault();
+const fd = new FormData(form);
+const data = Object.fromEntries(fd.entries());
+try {
+await fetch("/api/send", {
+method: "POST",
+body: JSON.stringify(data),
+headers: { "Content-Type": "application/json" }
+});
+form.reset();
+formContainer.classList.add("hidden");
+openButton.classList.remove("hidden");
+document.getElementById("form-feedback").textContent = "Danke für Ihre Anmeldung!";
+document.getElementById("form-feedback").style.display = "block";
+} catch (err) {
+document.getElementById("form-feedback").textContent = "Fehler beim Senden";
+document.getElementById("form-feedback").style.color = "red";
+document.getElementById("form-feedback").style.display = "block";
+}
+});
+});
+&lt;/script>
+&lt;/p></description></item><item><title>Wander-Atelier</title><link>https://allegra.topli.ch/de/atelier/wander/</link><pubDate>Wed, 23 Jul 2025 00:00:00 +0000</pubDate><guid>https://allegra.topli.ch/de/atelier/wander/</guid><description>&lt;h2 id="was-wir-machen">Was wir machen&lt;/h2>
+&lt;p>Im Wander-Atelier gehen wir gemeinsam raus in die Natur. Wir entdecken neue Wege rund um Zürich, tauschen uns aus und genießen Bewegung an der frischen Luft.&lt;/p>
+&lt;p>Die Wanderungen sind gemütlich, für alle geeignet, und bieten Gelegenheit, neue Menschen kennenzulernen.&lt;/p>
+&lt;hr>
+&lt;h2 id="organisatorisches">Organisatorisches&lt;/h2>
+&lt;ul>
+&lt;li>🗓 &lt;strong>Wann&lt;/strong>: Jeden zweiten Sonntag, 10:00–13:00 Uhr&lt;/li>
+&lt;li>📍 &lt;strong>Wo&lt;/strong>: Treffpunkt wird jeweils vorher bekannt gegeben&lt;/li>
+&lt;li>💸 &lt;strong>Teilnahme&lt;/strong>: Kostenlos, wetterangepasste Kleidung empfohlen&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2 id="kontakt">Kontakt&lt;/h2>
+&lt;style>
+.contact-grid {
+display: flex;
+flex-wrap: wrap;
+gap: 2rem;
+align-items: flex-start;
+margin-top: 1.5rem;
+}
+.contact-left {
+flex: 1 1 300px;
+}
+.contact-right {
+flex: 0 0 200px;
+text-align: center;
+}
+.contact-right img {
+max-width: 100%;
+height: auto;
+border-radius: 8px;
+}
+&lt;/style>
+&lt;div class="contact-grid">
+&lt;div class="contact-left">
+&lt;p>&lt;strong>Verantwortlich:&lt;/strong> Thomas Beispiel&lt;/p>
+&lt;p>&lt;strong>E-Mail:&lt;/strong>
+&lt;a href="mailto:wander@topli.ch">wander@topli.ch&lt;/a>
+&lt;/p>
+&lt;p>&lt;strong>Telefon:&lt;/strong>
+&lt;a href="tel:&amp;#43;41%2079%20987%2065%2043">&amp;#43;41 79 987 65 43&lt;/a>
+&lt;/p>
+&lt;p>&lt;strong>WhatsApp:&lt;/strong>
+&lt;a href="https://chat.whatsapp.com/KZV3bPVijqBEgX8aikWCWS" target="_blank" rel="noopener">Gruppe beitreten&lt;/a>
+&lt;/p>
+&lt;/div>
+&lt;div class="contact-right">
+&lt;img src="https://allegra.topli.ch/de/atelier/wander/wander-qr.png" alt="WhatsApp QR-Code" style="max-width: 150px;">
+&lt;/div>
+&lt;/div>
+&lt;hr>
+&lt;h2 id="ich-möchte-teilnehmen">Ich möchte teilnehmen&lt;/h2>
+&lt;p>
+&lt;script>
+window.formLang = {
+wait: "Bitte warten...",
+success: "Danke für deine Anmeldung!",
+error: "Fehler beim Senden",
+errormsg: "Fehler:",
+invalid: "Ungültige Eingabe"
+};
+&lt;/script>
+&lt;div class="contact-container">
+&lt;div class="contact-right">
+&lt;div id="anmeldung-form" class="hidden">
+&lt;form id="contact-form">
+&lt;input type="hidden" name="from_name" value="Wander-Atelier Anmeldung">
+&lt;input type="hidden" name="from_email" value="form-wander@chumm.ch">
+&lt;input type="hidden" name="to_email" value="wander@topli.ch">
+&lt;input type="hidden" name="subject" value="Neue Anmeldung – Wander-Atelier">
+&lt;input type="text" name="honeypot" id="honeypot" style="display:none" autocomplete="off">
+&lt;div class="form-group">
+&lt;label for="gender">Geschlecht&lt;/label>
+&lt;select id="gender" name="gender" required class="form-control">
+&lt;option value="" disabled selected>Bitte wählen&lt;/option>
+&lt;option value="Mann">Mann&lt;/option>
+&lt;option value="Frau">Frau&lt;/option>
+&lt;option value="Divers">Divers&lt;/option>
+&lt;/select>
+&lt;/div>
+&lt;div class="form-group">
+&lt;label for="name">Name&lt;/label>
+&lt;input type="text" id="name" name="name" required class="form-control">
+&lt;/div>
+&lt;div class="form-group">
+&lt;label for="nationality">Nationalität&lt;/label>
+&lt;input type="text" id="nationality" name="nationality" class="form-control">
+&lt;/div>
+&lt;div class="form-group">
+&lt;label for="age_group">Altersgruppe&lt;/label>
+&lt;select id="age_group" name="age_group" required class="form-control">
+&lt;option value="" disabled selected>Bitte wählen&lt;/option>
+&lt;option value="unter 18">unter 18&lt;/option>
+&lt;option value="18–30">18–30&lt;/option>
+&lt;option value="31–50">31–50&lt;/option>
+&lt;option value="51+">51+&lt;/option>
+&lt;/select>
+&lt;/div>
+&lt;div class="form-group">
+&lt;label for="email">E-Mail&lt;/label>
+&lt;input type="email" id="email" name="email" required class="form-control">
+&lt;/div>
+&lt;div class="form-group">
+&lt;label for="telefon">Telefon&lt;/label>
+&lt;input type="tel" id="telefon" name="telefon" class="form-control">
+&lt;/div>
+&lt;div class="form-group">
+&lt;label for="message">Warum möchtest du teilnehmen?&lt;/label>
+&lt;textarea id="message" name="message" rows="5" required class="form-control">&lt;/textarea>
+&lt;/div>
+&lt;button type="submit" class="btn btn-primary">Absenden&lt;/button>
+&lt;/form>
+&lt;div id="form-feedback" style="margin-top:1rem; color: green; display: none;">&lt;/div>
+&lt;/div>
+&lt;button id="open-form" class="btn btn-secondary">Anmelden&lt;/button>
+&lt;/div>
+&lt;/div>
+&lt;script>
+document.addEventListener("DOMContentLoaded", () => {
+const formContainer = document.getElementById("anmeldung-form");
+const openButton = document.getElementById("open-form");
+const form = document.getElementById("contact-form");
+openButton.addEventListener("click", () => {
+formContainer.classList.remove("hidden");
+openButton.classList.add("hidden");
+});
+form.addEventListener("submit", async (e) => {
+e.preventDefault();
+const fd = new FormData(form);
+const data = Object.fromEntries(fd.entries());
+try {
+await fetch("/api/send", {
+method: "POST",
+body: JSON.stringify(data),
+headers: { "Content-Type": "application/json" }
+});
+form.reset();
+formContainer.classList.add("hidden");
+openButton.classList.remove("hidden");
+document.getElementById("form-feedback").textContent = "Danke für Ihre Anmeldung!";
+document.getElementById("form-feedback").style.display = "block";
+} catch (err) {
+document.getElementById("form-feedback").textContent = "Fehler beim Senden";
+document.getElementById("form-feedback").style.color = "red";
+document.getElementById("form-feedback").style.display = "block";
+}
+});
+});
+&lt;/script>
+&lt;/p></description></item><item><title>Yoga-Atelier</title><link>https://allegra.topli.ch/de/atelier/yoga/</link><pubDate>Tue, 22 Jul 2025 00:00:00 +0000</pubDate><guid>https://allegra.topli.ch/de/atelier/yoga/</guid><description>&lt;h2 id="was-wir-machen">Was wir machen&lt;/h2>
+&lt;p>Im Yoga-Atelier praktizieren wir einfache Yogaübungen, die für alle geeignet sind – unabhängig von Alter oder Erfahrung.&lt;/p>
+&lt;p>Die Einheiten helfen dabei, zur Ruhe zu kommen, den Körper zu spüren und im Moment anzukommen. Entspannungsübungen, Atemtechniken und sanfte Bewegungen stehen im Mittelpunkt.&lt;/p>
+&lt;hr>
+&lt;h2 id="organisatorisches">Organisatorisches&lt;/h2>
+&lt;ul>
+&lt;li>🗓 &lt;strong>Wann&lt;/strong>: Jeden Mittwoch, 19:00–20:00 Uhr&lt;/li>
+&lt;li>📍 &lt;strong>Wo&lt;/strong>: Gemeindehaus Allegra, Zürich&lt;/li>
+&lt;li>💸 &lt;strong>Teilnahme&lt;/strong>: Kostenlos, bequeme Kleidung empfohlen. Yogamatten sind vorhanden.&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2 id="kontakt">Kontakt&lt;/h2>
+&lt;style>
+.contact-grid {
+display: flex;
+flex-wrap: wrap;
+gap: 2rem;
+align-items: flex-start;
+margin-top: 1.5rem;
+}
+.contact-left {
+flex: 1 1 300px;
+}
+.contact-right {
+flex: 0 0 200px;
+text-align: center;
+}
+.contact-right img {
+max-width: 100%;
+height: auto;
+border-radius: 8px;
+}
+&lt;/style>
+&lt;div class="contact-grid">
+&lt;div class="contact-left">
+&lt;p>&lt;strong>Verantwortlich:&lt;/strong> Elena Beispiel&lt;/p>
+&lt;p>&lt;strong>E-Mail:&lt;/strong>
+&lt;a href="mailto:yoga@topli.ch">yoga@topli.ch&lt;/a>
+&lt;/p>
+&lt;p>&lt;strong>Telefon:&lt;/strong>
+&lt;a href="tel:&amp;#43;41%2079%20333%2022%2011">&amp;#43;41 79 333 22 11&lt;/a>
+&lt;/p>
+&lt;p>&lt;strong>WhatsApp:&lt;/strong>
+&lt;a href="https://chat.whatsapp.com/KZV3bPVijqBEgX8aikWCWS" target="_blank" rel="noopener">Gruppe beitreten&lt;/a>
+&lt;/p>
+&lt;/div>
+&lt;/div>
+&lt;hr>
+&lt;h2 id="ich-möchte-teilnehmen">Ich möchte teilnehmen&lt;/h2>
+&lt;p>
+&lt;script>
+window.formLang = {
+wait: "Bitte warten...",
+success: "Danke für deine Anmeldung!",
+error: "Fehler beim Senden",
+errormsg: "Fehler:",
+invalid: "Ungültige Eingabe"
+};
+&lt;/script>
+&lt;div class="contact-container">
+&lt;div class="contact-right">
+&lt;div id="anmeldung-form" class="hidden">
+&lt;form id="contact-form">
+&lt;input type="hidden" name="from_name" value="Yoga-Atelier Anmeldung">
+&lt;input type="hidden" name="from_email" value="form-yoga@chumm.ch">
+&lt;input type="hidden" name="to_email" value="yoga@topli.ch">
+&lt;input type="hidden" name="subject" value="Neue Anmeldung – Yoga-Atelier">
+&lt;input type="text" name="honeypot" id="honeypot" style="display:none" autocomplete="off">
+&lt;div class="form-group">
+&lt;label for="gender">Geschlecht&lt;/label>
+&lt;select id="gender" name="gender" required class="form-control">
+&lt;option value="" disabled selected>Bitte wählen&lt;/option>
+&lt;option value="Mann">Mann&lt;/option>
+&lt;option value="Frau">Frau&lt;/option>
+&lt;option value="Divers">Divers&lt;/option>
+&lt;/select>
+&lt;/div>
+&lt;div class="form-group">
+&lt;label for="name">Name&lt;/label>
+&lt;input type="text" id="name" name="name" required class="form-control">
+&lt;/div>
+&lt;div class="form-group">
+&lt;label for="nationality">Nationalität&lt;/label>
+&lt;input type="text" id="nationality" name="nationality" class="form-control">
+&lt;/div>
+&lt;div class="form-group">
+&lt;label for="age_group">Altersgruppe&lt;/label>
+&lt;select id="age_group" name="age_group" required class="form-control">
+&lt;option value="" disabled selected>Bitte wählen&lt;/option>
+&lt;option value="unter 18">unter 18&lt;/option>
+&lt;option value="18–30">18–30&lt;/option>
+&lt;option value="31–50">31–50&lt;/option>
+&lt;option value="51+">51+&lt;/option>
+&lt;/select>
+&lt;/div>
+&lt;div class="form-group">
+&lt;label for="email">E-Mail&lt;/label>
+&lt;input type="email" id="email" name="email" required class="form-control">
+&lt;/div>
+&lt;div class="form-group">
+&lt;label for="telefon">Telefon&lt;/label>
+&lt;input type="tel" id="telefon" name="telefon" class="form-control">
+&lt;/div>
+&lt;div class="form-group">
+&lt;label for="message">Warum möchtest du teilnehmen?&lt;/label>
+&lt;textarea id="message" name="message" rows="5" required class="form-control">&lt;/textarea>
+&lt;/div>
+&lt;button type="submit" class="btn btn-primary">Absenden&lt;/button>
+&lt;/form>
+&lt;div id="form-feedback" style="margin-top:1rem; color: green; display: none;">&lt;/div>
+&lt;/div>
+&lt;button id="open-form" class="btn btn-secondary">Anmelden&lt;/button>
+&lt;/div>
+&lt;/div>
+&lt;script>
+document.addEventListener("DOMContentLoaded", () => {
+const formContainer = document.getElementById("anmeldung-form");
+const openButton = document.getElementById("open-form");
+const form = document.getElementById("contact-form");
+openButton.addEventListener("click", () => {
+formContainer.classList.remove("hidden");
+openButton.classList.add("hidden");
+});
+form.addEventListener("submit", async (e) => {
+e.preventDefault();
+const fd = new FormData(form);
+const data = Object.fromEntries(fd.entries());
+try {
+await fetch("/api/send", {
+method: "POST",
+body: JSON.stringify(data),
+headers: { "Content-Type": "application/json" }
+});
+form.reset();
+formContainer.classList.add("hidden");
+openButton.classList.remove("hidden");
+document.getElementById("form-feedback").textContent = "Danke für Ihre Anmeldung!";
+document.getElementById("form-feedback").style.display = "block";
+} catch (err) {
+document.getElementById("form-feedback").textContent = "Fehler beim Senden";
+document.getElementById("form-feedback").style.color = "red";
+document.getElementById("form-feedback").style.display = "block";
+}
+});
+});
+&lt;/script>
+&lt;/p></description></item><item><title>Spiel-Atelier</title><link>https://allegra.topli.ch/de/atelier/spiel/</link><pubDate>Mon, 21 Jul 2025 00:00:00 +0000</pubDate><guid>https://allegra.topli.ch/de/atelier/spiel/</guid><description>&lt;h2 id="was-wir-machen">Was wir machen&lt;/h2>
+&lt;p>Im Spiel-Atelier treffen sich Menschen jeden Alters, um gemeinsam Gesellschaftsspiele zu spielen – von Klassikern wie Uno oder Schach bis zu modernen Kartenspielen.&lt;/p>
+&lt;p>Es geht nicht ums Gewinnen, sondern um den Spaß, das Lachen und das Miteinander. Auch neue Spiele dürfen gern mitgebracht werden!&lt;/p>
+&lt;hr>
+&lt;h2 id="organisatorisches">Organisatorisches&lt;/h2>
+&lt;ul>
+&lt;li>🗓 &lt;strong>Wann&lt;/strong>: Jeden Freitag, 17:30–19:30 Uhr&lt;/li>
+&lt;li>📍 &lt;strong>Wo&lt;/strong>: Gemeindehaus Allegra, Zürich&lt;/li>
+&lt;li>💸 &lt;strong>Teilnahme&lt;/strong>: Kostenlos, Spiele sind vorhanden&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2 id="kontakt">Kontakt&lt;/h2>
+&lt;style>
+.contact-grid {
+display: flex;
+flex-wrap: wrap;
+gap: 2rem;
+align-items: flex-start;
+margin-top: 1.5rem;
+}
+.contact-left {
+flex: 1 1 300px;
+}
+.contact-right {
+flex: 0 0 200px;
+text-align: center;
+}
+.contact-right img {
+max-width: 100%;
+height: auto;
+border-radius: 8px;
+}
+&lt;/style>
+&lt;div class="contact-grid">
+&lt;div class="contact-left">
+&lt;p>&lt;strong>Verantwortlich:&lt;/strong> Laura Beispiel&lt;/p>
+&lt;p>&lt;strong>E-Mail:&lt;/strong>
+&lt;a href="mailto:spiel@topli.ch">spiel@topli.ch&lt;/a>
+&lt;/p>
+&lt;p>&lt;strong>Telefon:&lt;/strong>
+&lt;a href="tel:&amp;#43;41%2079%20456%2078%2090">&amp;#43;41 79 456 78 90&lt;/a>
+&lt;/p>
+&lt;p>&lt;strong>WhatsApp:&lt;/strong>
+&lt;a href="https://chat.whatsapp.com/KZV3bPVijqBEgX8aikWCWS" target="_blank" rel="noopener">Gruppe beitreten&lt;/a>
+&lt;/p>
+&lt;/div>
+&lt;div class="contact-right">
+&lt;img src="https://allegra.topli.ch/de/atelier/spiel/spiel-qr.png" alt="WhatsApp QR-Code" style="max-width: 150px;">
+&lt;/div>
+&lt;/div>
+&lt;hr>
+&lt;h2 id="ich-möchte-teilnehmen">Ich möchte teilnehmen&lt;/h2>
+&lt;p>
+&lt;script>
+window.formLang = {
+wait: "Bitte warten...",
+success: "Danke für deine Anmeldung!",
+error: "Fehler beim Senden",
+errormsg: "Fehler:",
+invalid: "Ungültige Eingabe"
+};
+&lt;/script>
+&lt;div class="contact-container">
+&lt;div class="contact-right">
+&lt;div id="anmeldung-form" class="hidden">
+&lt;form id="contact-form">
+&lt;input type="hidden" name="from_name" value="Spiel-Atelier Anmeldung">
+&lt;input type="hidden" name="from_email" value="form-spiel@chumm.ch">
+&lt;input type="hidden" name="to_email" value="spiel@topli.ch">
+&lt;input type="hidden" name="subject" value="Neue Anmeldung – Spiel-Atelier">
+&lt;input type="text" name="honeypot" id="honeypot" style="display:none" autocomplete="off">
+&lt;div class="form-group">
+&lt;label for="gender">Geschlecht&lt;/label>
+&lt;select id="gender" name="gender" required class="form-control">
+&lt;option value="" disabled selected>Bitte wählen&lt;/option>
+&lt;option value="Mann">Mann&lt;/option>
+&lt;option value="Frau">Frau&lt;/option>
+&lt;option value="Divers">Divers&lt;/option>
+&lt;/select>
+&lt;/div>
+&lt;div class="form-group">
+&lt;label for="name">Name&lt;/label>
+&lt;input type="text" id="name" name="name" required class="form-control">
+&lt;/div>
+&lt;div class="form-group">
+&lt;label for="nationality">Nationalität&lt;/label>
+&lt;input type="text" id="nationality" name="nationality" class="form-control">
+&lt;/div>
+&lt;div class="form-group">
+&lt;label for="age_group">Altersgruppe&lt;/label>
+&lt;select id="age_group" name="age_group" required class="form-control">
+&lt;option value="" disabled selected>Bitte wählen&lt;/option>
+&lt;option value="unter 18">unter 18&lt;/option>
+&lt;option value="18–30">18–30&lt;/option>
+&lt;option value="31–50">31–50&lt;/option>
+&lt;option value="51+">51+&lt;/option>
+&lt;/select>
+&lt;/div>
+&lt;div class="form-group">
+&lt;label for="email">E-Mail&lt;/label>
+&lt;input type="email" id="email" name="email" required class="form-control">
+&lt;/div>
+&lt;div class="form-group">
+&lt;label for="telefon">Telefon&lt;/label>
+&lt;input type="tel" id="telefon" name="telefon" class="form-control">
+&lt;/div>
+&lt;div class="form-group">
+&lt;label for="message">Warum möchtest du teilnehmen?&lt;/label>
+&lt;textarea id="message" name="message" rows="5" required class="form-control">&lt;/textarea>
+&lt;/div>
+&lt;button type="submit" class="btn btn-primary">Absenden&lt;/button>
+&lt;/form>
+&lt;div id="form-feedback" style="margin-top:1rem; color: green; display: none;">&lt;/div>
+&lt;/div>
+&lt;button id="open-form" class="btn btn-secondary">Anmelden&lt;/button>
+&lt;/div>
+&lt;/div>
+&lt;script>
+document.addEventListener("DOMContentLoaded", () => {
+const formContainer = document.getElementById("anmeldung-form");
+const openButton = document.getElementById("open-form");
+const form = document.getElementById("contact-form");
+openButton.addEventListener("click", () => {
+formContainer.classList.remove("hidden");
+openButton.classList.add("hidden");
+});
+form.addEventListener("submit", async (e) => {
+e.preventDefault();
+const fd = new FormData(form);
+const data = Object.fromEntries(fd.entries());
+try {
+await fetch("/api/send", {
+method: "POST",
+body: JSON.stringify(data),
+headers: { "Content-Type": "application/json" }
+});
+form.reset();
+formContainer.classList.add("hidden");
+openButton.classList.remove("hidden");
+document.getElementById("form-feedback").textContent = "Danke für Ihre Anmeldung!";
+document.getElementById("form-feedback").style.display = "block";
+} catch (err) {
+document.getElementById("form-feedback").textContent = "Fehler beim Senden";
+document.getElementById("form-feedback").style.color = "red";
+document.getElementById("form-feedback").style.display = "block";
+}
+});
+});
+&lt;/script>
+&lt;/p></description></item><item><title>Stricken-Atelier</title><link>https://allegra.topli.ch/de/atelier/stricken/</link><pubDate>Mon, 21 Jul 2025 00:00:00 +0000</pubDate><guid>https://allegra.topli.ch/de/atelier/stricken/</guid><description>&lt;h2 id="was-wir-machen">Was wir machen&lt;/h2>
+&lt;p>Im Stricken-Atelier kommen Menschen zusammen, die Freude am Stricken haben – ob Anfängerin oder Profi.&lt;/p>
+&lt;p>Wir arbeiten an eigenen oder gemeinsamen Projekten, tauschen Tipps aus und genießen die entspannte Atmosphäre. Das Atelier bietet Raum für Kreativität, Gespräche und gegenseitige Unterstützung.&lt;/p>
+&lt;hr>
+&lt;h2 id="organisatorisches">Organisatorisches&lt;/h2>
+&lt;ul>
+&lt;li>🗓 &lt;strong>Wann&lt;/strong>: Jeden Donnerstag, 17:00–18:30 Uhr&lt;/li>
+&lt;li>📍 &lt;strong>Wo&lt;/strong>: Gemeindehaus Allegra, Zürich&lt;/li>
+&lt;li>💸 &lt;strong>Teilnahme&lt;/strong>: Kostenlos. Wolle und Nadeln bitte mitbringen, ein paar Materialien sind vorhanden.&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2 id="kontakt">Kontakt&lt;/h2>
+&lt;style>
+.contact-grid {
+display: flex;
+flex-wrap: wrap;
+gap: 2rem;
+align-items: flex-start;
+margin-top: 1.5rem;
+}
+.contact-left {
+flex: 1 1 300px;
+}
+.contact-right {
+flex: 0 0 200px;
+text-align: center;
+}
+.contact-right img {
+max-width: 100%;
+height: auto;
+border-radius: 8px;
+}
+&lt;/style>
+&lt;div class="contact-grid">
+&lt;div class="contact-left">
+&lt;p>&lt;strong>Verantwortlich:&lt;/strong> Monika Beispiel&lt;/p>
+&lt;p>&lt;strong>E-Mail:&lt;/strong>
+&lt;a href="mailto:stricken@topli.ch">stricken@topli.ch&lt;/a>
+&lt;/p>
+&lt;p>&lt;strong>Telefon:&lt;/strong>
+&lt;a href="tel:&amp;#43;41%2079%20888%2077%2066">&amp;#43;41 79 888 77 66&lt;/a>
+&lt;/p>
+&lt;p>&lt;strong>WhatsApp:&lt;/strong>
+&lt;a href="https://chat.whatsapp.com/KZV3bPVijqBEgX8aikWCWS" target="_blank" rel="noopener">Gruppe beitreten&lt;/a>
+&lt;/p>
+&lt;/div>
+&lt;div class="contact-right">
+&lt;img src="https://allegra.topli.ch/de/atelier/stricken/stricken-qr.png" alt="WhatsApp QR-Code" style="max-width: 150px;">
+&lt;/div>
+&lt;/div>
+&lt;hr>
+&lt;h2 id="ich-möchte-teilnehmen">Ich möchte teilnehmen&lt;/h2>
+&lt;p>
+&lt;script>
+window.formLang = {
+wait: "Bitte warten...",
+success: "Danke für deine Anmeldung!",
+error: "Fehler beim Senden",
+errormsg: "Fehler:",
+invalid: "Ungültige Eingabe"
+};
+&lt;/script>
+&lt;br>
+&lt;div class="contact-container">
+&lt;div class="contact-right">
+&lt;div id="anmeldung-form" class="hidden">
+&lt;form id="contact-form">
+&lt;input type="hidden" name="from_name" value="Stricken-Atelier Anmeldung">
+&lt;input type="hidden" name="from_email" value="form-stricken@chumm.ch">
+&lt;input type="hidden" name="to_email" value="stricken@topli.ch">
+&lt;input type="hidden" name="subject" value="Neue Anmeldung – Stricken-Atelier">
+&lt;input type="text" name="honeypot" id="honeypot" style="display:none" autocomplete="off">
+&lt;div class="form-group">
+&lt;label for="gender">Geschlecht&lt;/label>
+&lt;select id="gender" name="gender" required class="form-control">
+&lt;option value="" disabled selected>Bitte wählen&lt;/option>
+&lt;option value="Mann">Mann&lt;/option>
+&lt;option value="Frau">Frau&lt;/option>
+&lt;option value="Divers">Divers&lt;/option>
+&lt;/select>
+&lt;/div>
+&lt;div class="form-group">
+&lt;label for="name">Name&lt;/label>
+&lt;input type="text" id="name" name="name" required class="form-control">
+&lt;/div>
+&lt;div class="form-group">
+&lt;label for="nationality">Nationalität&lt;/label>
+&lt;input type="text" id="nationality" name="nationality" class="form-control">
+&lt;/div>
+&lt;div class="form-group">
+&lt;label for="age_group">Altersgruppe&lt;/label>
+&lt;select id="age_group" name="age_group" required class="form-control">
+&lt;option value="" disabled selected>Bitte wählen&lt;/option>
+&lt;option value="unter 18">unter 18&lt;/option>
+&lt;option value="18–30">18–30&lt;/option>
+&lt;option value="31–50">31–50&lt;/option>
+&lt;option value="51+">51+&lt;/option>
+&lt;/select>
+&lt;/div>
+&lt;div class="form-group">
+&lt;label for="email">E-Mail&lt;/label>
+&lt;input type="email" id="email" name="email" required class="form-control">
+&lt;/div>
+&lt;div class="form-group">
+&lt;label for="telefon">Telefon&lt;/label>
+&lt;input type="tel" id="telefon" name="telefon" class="form-control">
+&lt;/div>
+&lt;div class="form-group">
+&lt;label for="message">Warum möchtest du teilnehmen?&lt;/label>
+&lt;textarea id="message" name="message" rows="5" required class="form-control">&lt;/textarea>
+&lt;/div>
+&lt;button type="submit" class="btn btn-primary">Absenden&lt;/button>
+&lt;/form>
+&lt;div id="form-feedback" style="margin-top:1rem; color: green; display: none;">&lt;/div>
+&lt;/div>
+&lt;button id="open-form" class="btn btn-secondary">Anmelden&lt;/button>
+&lt;/div>
+&lt;/div>
+&lt;script>
+document.addEventListener("DOMContentLoaded", () => {
+const formContainer = document.getElementById("anmeldung-form");
+const openButton = document.getElementById("open-form");
+const form = document.getElementById("contact-form");
+openButton.addEventListener("click", () => {
+formContainer.classList.remove("hidden");
+openButton.classList.add("hidden");
+});
+form.addEventListener("submit", async (e) => {
+e.preventDefault();
+const fd = new FormData(form);
+const data = Object.fromEntries(fd.entries());
+try {
+await fetch("/api/send", {
+method: "POST",
+body: JSON.stringify(data),
+headers: { "Content-Type": "application/json" }
+});
+form.reset();
+formContainer.classList.add("hidden");
+openButton.classList.remove("hidden");
+document.getElementById("form-feedback").textContent = "Danke für Ihre Anmeldung!";
+document.getElementById("form-feedback").style.display = "block";
+} catch (err) {
+document.getElementById("form-feedback").textContent = "Fehler beim Senden";
+document.getElementById("form-feedback").style.color = "red";
+document.getElementById("form-feedback").style.display = "block";
+}
+});
+});
+&lt;/script>
+&lt;/p></description></item><item><title>Kontakt</title><link>https://allegra.topli.ch/de/contact/</link><pubDate>Mon, 24 Oct 2022 00:00:00 +0000</pubDate><guid>https://allegra.topli.ch/de/contact/</guid><description/></item><item><title>Team</title><link>https://allegra.topli.ch/de/about/team/</link><pubDate>Mon, 24 Oct 2022 00:00:00 +0000</pubDate><guid>https://allegra.topli.ch/de/about/team/</guid><description/></item><item><title>Über uns</title><link>https://allegra.topli.ch/de/about/about/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://allegra.topli.ch/de/about/about/</guid><description>&lt;h2 id="wer-wir-sind">Wer wir sind&lt;/h2>
+&lt;p>&lt;strong>Allegra March&lt;/strong> ist ein gemeinnütziger Verein, der sich aus Freiwilligen verschiedener Länder und Kulturen zusammensetzt. Unser Ziel ist es, die Gemeinschaft und den Austausch der unterschiedlichen Kulturen zu fördern, um so die Integration und Inklusion in die Schweiz zu erleichtern.&lt;/p>
+&lt;p>Das Angebot richtet sich an alle Bewohner*innen des Bezirks &lt;strong>March&lt;/strong> – egal ob einheimisch oder zugezogen.&lt;/p>
+&lt;hr>
+&lt;h2 id="unser-konzept">Unser Konzept&lt;/h2>
+&lt;blockquote>
+&lt;p>&lt;em>&amp;ldquo;Das Projekt lebt von der vielseitigen Beteiligung aller.&amp;rdquo;&lt;/em>&lt;br>
+– Grundsatz des Vereins&lt;/p>
+&lt;/blockquote>
+&lt;p>In verschiedenen &lt;strong>Ateliers&lt;/strong> finden sich Interessierte zusammen und verbringen gemeinsam ihre Freizeit.&lt;/p>
+&lt;p>🧵 Eine Übersicht und Anmeldung zu den einzelnen Ateliers findest du unter der Rubrik &lt;a href="https://allegra.topli.ch/de/atelier/">&lt;strong>Ateliers&lt;/strong>&lt;/a>.&lt;br>
+🤝 Falls du selbst ein solches Atelier anbieten möchtest, freuen wir uns über deine &lt;a href="https://allegra.topli.ch/de/contact/">&lt;strong>Kontaktaufnahme&lt;/strong>&lt;/a>.&lt;/p>
+&lt;hr>
+&lt;h2 id="gemeinsam-gestalten">Gemeinsam gestalten&lt;/h2>
+&lt;p>Alle paar Monate treffen sich alle Interessierten im &lt;strong>Plenum&lt;/strong>,&lt;br>
+wo das Erlebte und Gestaltete der Ateliers präsentiert&lt;br>
+und neue Ateliers vorgestellt werden.&lt;/p>
+&lt;p>🗓 Die verschiedenen Termine findest du unter der Rubrik &lt;a href="https://allegra.topli.ch/de/notices/agenda/">&lt;strong>Agenda&lt;/strong>&lt;/a>&lt;/p>
+&lt;hr>
+&lt;h2 id="weitere-angebote">Weitere Angebote&lt;/h2>
+&lt;p>📌 In Zusammenarbeit mit &lt;strong>Komin&lt;/strong> bieten wir &lt;strong>Informationsveranstaltungen&lt;/strong>&lt;br>
+zu verschiedenen Themen rund um das Leben in der Schweiz an.&lt;br>
+Details findest du in der Rubrik &lt;a href="https://allegra.topli.ch/de/notices/infopoint/">&lt;strong>Info-Point&lt;/strong>&lt;/a>.&lt;/p>
+&lt;p>🖼 Um dir einen ersten Eindruck unserer Angebote zu machen,&lt;br>
+findest du einige Impressionen in unserer &lt;a href="https://allegra.topli.ch/de/notices/gallery/">&lt;strong>Galerie&lt;/strong>&lt;/a>.&lt;/p>
+&lt;p>📰 Berichte über unser Projekt und den Verein findest du unter &lt;a href="https://allegra.topli.ch/de/notices/info/">&lt;strong>News&lt;/strong>&lt;/a>.&lt;/p>
+&lt;p>📱 Du findest uns auch auf allen gängigen &lt;strong>Social Media Plattformen&lt;/strong>.&lt;/p></description></item></channel></rss>
