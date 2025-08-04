@@ -36,9 +36,5 @@ Wir sprechen in kleinen Gruppen, spielen Sprachspiele und helfen uns gegenseitig
 
 {{< contact >}}
 
----
-
-## Ich möchte teilnehmen
-
 {{< form-lang >}}
 {{< form1 >}}
