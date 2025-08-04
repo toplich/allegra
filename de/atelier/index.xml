@@ -49,8 +49,6 @@ border-radius: 8px;
 &lt;img src="https://allegra.topli.ch/de/atelier/sprach/sprach-qr.png" alt="WhatsApp QR-Code" style="max-width: 150px;">
 &lt;/div>
 &lt;/div>
-&lt;hr>
-&lt;h2 id="ich-möchte-teilnehmen">Ich möchte teilnehmen&lt;/h2>
 &lt;p>
 &lt;script>
 window.formLang = {
@@ -118,7 +116,7 @@ Ich akzeptiere die &lt;a href="https://allegra.topli.ch/de/privacy/" target="_bl
 &lt;/form>
 &lt;div id="form-feedback" style="margin-top:1rem; color: green; display: none;">&lt;/div>
 &lt;/div>
-&lt;button id="open-form" class="btn btn-secondary">Anmelden&lt;/button>
+&lt;button id="open-form" class="btn btn-primary">Anmelden&lt;/button>
 &lt;/div>
 &lt;/div>
 &lt;script>
@@ -272,7 +270,7 @@ Ich akzeptiere die &lt;a href="https://allegra.topli.ch/de/privacy/" target="_bl
 &lt;/form>
 &lt;div id="form-feedback" style="margin-top:1rem; color: green; display: none;">&lt;/div>
 &lt;/div>
-&lt;button id="open-form" class="btn btn-secondary">Anmelden&lt;/button>
+&lt;button id="open-form" class="btn btn-primary">Anmelden&lt;/button>
 &lt;/div>
 &lt;/div>
 &lt;script>
@@ -423,7 +421,7 @@ Ich akzeptiere die &lt;a href="https://allegra.topli.ch/de/privacy/" target="_bl
 &lt;/form>
 &lt;div id="form-feedback" style="margin-top:1rem; color: green; display: none;">&lt;/div>
 &lt;/div>
-&lt;button id="open-form" class="btn btn-secondary">Anmelden&lt;/button>
+&lt;button id="open-form" class="btn btn-primary">Anmelden&lt;/button>
 &lt;/div>
 &lt;/div>
 &lt;script>
@@ -577,7 +575,7 @@ Ich akzeptiere die &lt;a href="https://allegra.topli.ch/de/privacy/" target="_bl
 &lt;/form>
 &lt;div id="form-feedback" style="margin-top:1rem; color: green; display: none;">&lt;/div>
 &lt;/div>
-&lt;button id="open-form" class="btn btn-secondary">Anmelden&lt;/button>
+&lt;button id="open-form" class="btn btn-primary">Anmelden&lt;/button>
 &lt;/div>
 &lt;/div>
 &lt;script>
@@ -732,7 +730,7 @@ Ich akzeptiere die &lt;a href="https://allegra.topli.ch/de/privacy/" target="_bl
 &lt;/form>
 &lt;div id="form-feedback" style="margin-top:1rem; color: green; display: none;">&lt;/div>
 &lt;/div>
-&lt;button id="open-form" class="btn btn-secondary">Anmelden&lt;/button>
+&lt;button id="open-form" class="btn btn-primary">Anmelden&lt;/button>
 &lt;/div>
 &lt;/div>
 &lt;script>
