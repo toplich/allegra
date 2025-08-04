@@ -28,4 +28,6 @@
   translation: Nachricht
 - id: form_submit
   translation: Absenden
-
+#footer
+- id: privacy
+  translation: Datenschutz & Privatsphäre

@@ -9,4 +9,6 @@
 - id: filter_news
   translation: News
 
-
+#footer
+- id: privacy
+  translation: Privacy & Data

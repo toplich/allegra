@@ -9,4 +9,6 @@
 - id: filter_news
   translation: Новини
 
-
+#footer
+- id: privacy
+  translation: Захист даних і конфіденційність
