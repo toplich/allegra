@@ -10,6 +10,7 @@ appearance:
   theme_night:
   font: native
   font_size: L
+  show_author: false
 
 # SEO
 
@@ -49,7 +50,7 @@ footer:
     license:
       enable: false
       allow_derivatives: false
-      share_alike: true
+      share_alike: false
       allow_commercial: false
   show_powered_by: false
 
